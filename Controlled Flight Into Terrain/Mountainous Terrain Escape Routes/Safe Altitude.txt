@@ -1,0 +1,1 @@
+Safe altitude information can come from a variety of sources:

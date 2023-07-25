@@ -1,0 +1,1 @@
+Although line features usually make orientation and navigation easier, there are several issues that need to be considered:

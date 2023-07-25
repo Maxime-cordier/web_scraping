@@ -1,0 +1,1 @@
+An uncorrected erroneous read-back (known as a hear-back error) may lead to a deviation from the intended clearance and may not be detected until the controller observes the deviation on his/her situational display. Less than required vertical or horizontal separation (and an AIRPROX) is often the result of hear-back errors.

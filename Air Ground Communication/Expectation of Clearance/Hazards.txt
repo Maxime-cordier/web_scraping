@@ -1,0 +1,1 @@
+If a clearance is actally given which differs from the expected clearance, the pilot may read back the clearance correctly but perform the expected clearance. Alternatively, the pilot may read back the expected clearance, but the error may not be noticed by the ATCO.

@@ -1,0 +1,1 @@
+ATCUs attempt to reduce the impact of frequency congestion by Sectorisation and the use of multiple frequencies. However, too frequent frequency change can also contribute to communication breakdown.

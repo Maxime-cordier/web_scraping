@@ -1,0 +1,1 @@
+Voice-ATIS broadcasts normally contain the following information in the order listed: Voice ATIS may be transmitted on a dedicated VHF communications frequency or as the voice element of a navigational facility (e.g. VOR). At busy airports, separate ATIS broadcasts may be made for arrivals and for departures.

@@ -1,0 +1,1 @@
+As signals overlap, the system is naturally making a selection on the type of overlap, the relative strength of the signals, the frequency variation, distance between transmitters and receivers, use of one or multiple ground receivers.

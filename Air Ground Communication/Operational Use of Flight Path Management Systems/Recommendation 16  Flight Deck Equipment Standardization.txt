@@ -1,0 +1,1 @@
+Develop standards to encourage consistency for flightcrew interfaces for new technologies and operations as they are introduced into the airspace system. Standards should be developed which establish consistency of system functionality (from an airspace operations perspective) for those operations deemed necessary for current and future airspace operations.

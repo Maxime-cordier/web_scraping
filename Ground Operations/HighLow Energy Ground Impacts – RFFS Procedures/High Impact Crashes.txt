@@ -1,0 +1,1 @@
+Considerations and specifics in RFFS procedures depend on the crash scenario. Some notable examples are:

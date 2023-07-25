@@ -1,0 +1,1 @@
+This article gives an overview of Controller Pilot Data Link Communications (CPDLC). It describes the main principles, the different data link services and the basics of CPDLC operations, including related phraseology. The goal is to provide background information for understanding the safety issues related to this technology.

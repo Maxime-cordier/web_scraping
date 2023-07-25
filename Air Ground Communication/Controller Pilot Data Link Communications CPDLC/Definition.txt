@@ -1,0 +1,1 @@
+Controller Pilot Data Link Communications (CPDLC) is a means of communication between controller and pilot, using data link for ATC communications. (ICAO Doc 4444: PANS-ATM)

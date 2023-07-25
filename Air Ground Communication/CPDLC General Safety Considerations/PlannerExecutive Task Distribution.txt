@@ -1,0 +1,1 @@
+Background: CPDLC allows the planner help the executive by performing certain tasks. Safety issue(s): In case of miscommunication between the two controllers (e.g. due to high workload), a situation can occur where the executive controller is not fully aware of the situation and makes decisions based on wrong assumptions. Typical scenarios Defences

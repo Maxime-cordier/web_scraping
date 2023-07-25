@@ -1,0 +1,1 @@
+Mitigation barriers are intended to reduce or eliminate the impact of a problem after it has happened. These are general mitigation barriers against loss of separation and are not specific to the conflict detection with adjacent sectors. Therefore, they will only be listed and not explained in detail:

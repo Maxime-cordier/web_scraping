@@ -1,0 +1,1 @@
+A system that provides the flightcrew with sufficient information and alerting to detect a potentially hazardous terrain situation and so the flightcrew may take effective action to prevent a CFIT event. Source: US FAA

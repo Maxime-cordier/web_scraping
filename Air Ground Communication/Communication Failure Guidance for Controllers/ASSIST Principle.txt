@@ -1,0 +1,1 @@
+Best practices identified by EUROCONTROL and embedded in the ASSIST principle could be followed (A - Acknowledge; S - Separate, S - Silence; I - Inform, S - Support, T - Time) by air traffic controllers in case of RCF:

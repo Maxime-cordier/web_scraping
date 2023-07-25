@@ -1,0 +1,1 @@
+(call sign) DISREGARD CPDLC (message content or type) MESSAGE, BREAK, (corrected message). Example: BTD123 DISREGARD CPDLC CLIMB MESSAGE, BREAK, CLIMB FLIGHT LEVEL 310.

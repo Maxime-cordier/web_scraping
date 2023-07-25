@@ -1,0 +1,1 @@
+Usually when a controller or pilot communicates via CPDLC, the response should be via CPDLC. When a controller or pilot communicates via voice, the response should be via voice. The following circumstances describe potential situations where the air ground communications should revert to voice:

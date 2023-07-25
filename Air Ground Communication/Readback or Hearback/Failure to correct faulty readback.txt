@@ -1,0 +1,1 @@
+The absence of an acknowledgement or a correction following a clearance read-back is perceived by most flight crews as an implicit confirmation of the read-back. The absence of acknowledgement by the controller is usually the result of frequency congestion and the need for the controller to issue clearances to several aircraft in succession.

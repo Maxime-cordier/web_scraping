@@ -1,0 +1,1 @@
+It is very important to adhere closely to the prescribed formats and manner of specifying data. A new flight plan format was fully implemented from 15th November 2012 containing certain significant changes from the previous format. When completing a flight plan the following rules apply: Also remember that:

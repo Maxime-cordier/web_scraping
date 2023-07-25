@@ -1,0 +1,1 @@
+Airspace planners should be aware of the precise DOCs of all frequencies and should take into account that they may be used outside the associated ATC sectors’ airspaces and in particular when collapsing ATC sectors.

@@ -1,0 +1,1 @@
+Readback. A procedure whereby the receiving station repeats a received message or an appropriate part thereof back to the transmitting station so as to obtain confirmation of correct reception. Source: ICAO Annex 10 Vol II
