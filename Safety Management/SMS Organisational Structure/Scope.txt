@@ -1,1 +1,1 @@
-An SMS organisational structure should include in general:
+An SMS organisational structure should include in general: An entity (entities) responsible for the development, implementation, operation and improvement of the SMS;. Safety management roles. Safety accountabilities and responsibilities of personnel involved in safety management and operational service provision;. Safety management personnel..

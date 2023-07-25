@@ -1,1 +1,1 @@
-The speed and timeliness of transmissions make important contributions to the communications process:
+The speed and timeliness of transmissions make important contributions to the communications process: If the transmission is too fast, the recipient may be unable to copy it correctly;. If a transmission is received at a time of high workload, it may be incorrectly copied or misunderstood..

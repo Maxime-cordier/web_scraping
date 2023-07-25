@@ -1,0 +1,1 @@
+Airborne Collision Avoidance System (ACAS). Interference to GNSS Signals.

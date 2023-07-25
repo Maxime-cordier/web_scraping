@@ -1,1 +1,1 @@
-EUROCONTROL: Flight Safety Foundation ALAR Toolkit:
+EUROCONTROL: The Development of Situation Awareness Measures in ATM Systems. Flight Safety Foundation ALAR Toolkit: ALAR Briefing Note 5.1 - Approach Hazards Overview. ALAR Briefing Note 5.2 - Terrain. ALAR Briefing Note 5.3 - Visual Illusions. ALAR Briefing Note 5.4 - Wind Shear.

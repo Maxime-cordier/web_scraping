@@ -1,1 +1,1 @@
-There are three basic types of features on a map:
+There are three basic types of features on a map: Point - used to show objects that are considered as one point (e.g. peaks, towers, etc.). Objects are usually represented by special symbols.. Line - used to show objects that are considered 1-D, i.e. only have length (e.g. roads, rivers, coastlines, etc.). Area - used to show large 2-D objects with their contours (e.g. lakes, cities, etc.).

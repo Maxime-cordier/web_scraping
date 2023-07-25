@@ -1,0 +1,1 @@
+Electronic Flight Instrument System. Primary Flight Display (PFD). Engine Indicating and Crew Alerting System (EICAS). Electronic Centralized Aircraft Monitor (ECAM). Flight Instrument Presentation of Aircraft Attitude. Altimeter. Pitot Static System. Air Speed Indicator. Vertical Speed Indicator. Machmeter. Synthetic Vision Systems (SVS). Standby Flight Instruments.

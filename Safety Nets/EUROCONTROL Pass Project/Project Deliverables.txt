@@ -1,1 +1,1 @@
-The project deliverables provide an insight into the current operational situation regarding the use of STCA and its possible interactions with ACAS.
+The project deliverables provide an insight into the current operational situation regarding the use of STCA and its possible interactions with ACAS. PASS Final Report. Analysis of RA Downlink Data. Model-based performance evaluation of STCA and ACAS operations - Final report. Operational Safety Assessment - Final Report. Guidelines for an overall concept of operations for independent compatible STCA and ACAS systems.

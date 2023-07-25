@@ -1,1 +1,1 @@
-The current ATM Top 5 operational risk priorities identified in 2022 are:
+The current ATM Top 5 operational risk priorities identified in 2022 are: Controller Blind Spot;. Flight without transponder or with dysfunctional one;. ACAS RA not followed;. Controlled airspace infringement;. Controller detection of potential RWY conflict..

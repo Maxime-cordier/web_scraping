@@ -1,0 +1,1 @@
+Reducing collective pitch. This reduces the angle of attack in the plane of rotation and should be done first.. Gently Applying aft cyclic to slow the aircraft. Application of aft cyclic without a reduction in collective pitch will only worsen the stall. An attempt to roll away from the stall can also make the situation worse as it places even higher demand on the stalled blade..

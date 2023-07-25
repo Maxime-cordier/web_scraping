@@ -1,1 +1,1 @@
-EUROCONTROL
+EUROCONTROL Controller Working Position Brochure;. HF31 CoRe Project: An Overview of the Project Activity;. HF43 CoRe Project: Baseline Exemplary Style Guide;. HF19 Font Requirements for Next Generation ATM Systems;. HF20 Methodology for Selecting Fonts for Next Generation ATM Systems.. Design for Humans, Steven Shorrock, Safeguard, January/February 2018..

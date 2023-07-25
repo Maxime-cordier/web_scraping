@@ -1,1 +1,1 @@
-Probe has the potential to increase safety and reduce controller workload in some situations as it:
+Probe has the potential to increase safety and reduce controller workload in some situations as it: Allows the controller to test a (complex) clearance before making any real changes or cause unwanted coordinations.. Provides the controller with a representation of the actual and a would-be situation simultaneously.. Provides one-click option for confirmation or rejection of the new trajectory.. Provides defence against blind spots..

@@ -1,0 +1,1 @@
+flight in “wrong state” inbound from another sector (e.g. uncorrelated or with an incorrect/not updated trajectory, etc.)..

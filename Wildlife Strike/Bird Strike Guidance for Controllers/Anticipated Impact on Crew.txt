@@ -1,1 +1,1 @@
-If a flight has experienced a bird strike, the controller may anticipate:
+If a flight has experienced a bird strike, the controller may anticipate: Rejected take-off. Immediate return to land. Landing at the next suitable aerodrome. Restricted visibility from the flight deck. Impaired aircraft control during the landing roll (for example landing gear or brakes malfunction).

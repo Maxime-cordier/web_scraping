@@ -1,0 +1,1 @@
+To develop commonly agreed functional specifications and associated HMI requirements for the ITWP. To design a possible HMI solution to meet the above requirements. To develop a prototype to demonstrate the ITWP. To perform evaluation of the ITWP delivered by the project.

@@ -1,1 +1,0 @@
-The type of aircraft, the complexity of the failure, previous and/or subsequent failures, and the circumstances under which the malfunction has occurred will determine what secondary actions should be taken. Actions that could be applicable to the situation include:

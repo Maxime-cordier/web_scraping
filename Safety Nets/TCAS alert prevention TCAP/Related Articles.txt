@@ -1,0 +1,1 @@
+Airborne Collision Avoidance System (ACAS). ACAS Resolution and Traffic Advisories. Autopilot/Flight Director (AP/FD) TCAS capability.

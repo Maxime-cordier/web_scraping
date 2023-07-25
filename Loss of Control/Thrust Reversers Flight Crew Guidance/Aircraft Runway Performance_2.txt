@@ -1,0 +1,1 @@
+landings could usefully include reference to the need for reverser deployment to occur without delay but only when lift spoiler / ground spoiler / speed brake deployment has been confirmed - after their manual deployment if necessary, since this will act as confirmation that sustained ‘ground’ status has been achieved..

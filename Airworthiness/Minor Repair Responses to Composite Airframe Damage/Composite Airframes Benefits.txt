@@ -1,1 +1,1 @@
-Composite airframes have a number of advantages over the traditional metal structures:
+Composite airframes have a number of advantages over the traditional metal structures: composite parts of the same size are lighter, leading to fuel savings. composite parts are not subject to fatigue. composite parts are not affected by corrosion. composite materials have better strength-to-weight ratios that allow various improvements, e.g. larger windows, lower altitude cabin pressure, etc.. composite materials are generally more resistant to impact damage compared to aluminum.

@@ -1,1 +1,1 @@
-The ICAO SMS framework consists of four components and twelve elements, and its implementation shall be commensurate with the size of the organization and the complexity of the services provided.
+The ICAO SMS framework consists of four components and twelve elements, and its implementation shall be commensurate with the size of the organization and the complexity of the services provided. Safety Policy and Objectives. Safety Risk Management. Safety Assurance. Safety Promotion.

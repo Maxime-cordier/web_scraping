@@ -1,0 +1,1 @@
+or instruction contradictory to the ACAS RA is received, the flight crew will follow the RA and inform ATC directly:. PILOT: [callsign] UNABLE, TCAS RA; ATC: [callsign] ROGER;

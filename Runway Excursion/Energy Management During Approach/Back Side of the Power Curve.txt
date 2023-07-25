@@ -1,1 +1,1 @@
-During an unstabilized approach, airspeed or the thrust setting often deviates from recommended criteria as follows:
+During an unstabilized approach, airspeed or the thrust setting often deviates from recommended criteria as follows: Airspeed decreases below VREF; and/or,. Thrust is reduced to idle and is maintained at idle..

@@ -1,0 +1,1 @@
+Generally, 0.01 M equals 6 kt. Speed difference of 6 kt gives 1 NM in 10 minutes. Speed difference of 30 kt gives 1 NM per 2 minutes. Speed difference of 60 kt gives 1 NM per minute.

@@ -1,1 +1,1 @@
-EUROCONTROL FAA NTSB UK CAA Others
+EUROCONTROL Guidelines for Controller Training in the Handling of Unusual/Emergency Situations. ATC Refresher Training Manual, ed.1.0, March 2015. FAA FAA Advisory Circular 120-80A “In Flight Fires”. NTSB Safety Recommendation Report - Emergency Training for Air Traffic Controllers. UK CAA CAP 745, Aircraft Emergencies, Considerations for air traffic controllers. Others Smoke, fire and fumes in transport aircraft, past history, current risks and recommended mitigations, Fifth Ed., 2018, Royal Aeronautical Society.

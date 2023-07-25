@@ -1,1 +1,1 @@
-The ATCO should be able to provide:
+The ATCO should be able to provide: Time and space - Provide increased separation between the affected aircraft and all others. Expect non-routine manoeuvres.. Information about nearest and nearest suitable airports - runway length and direction, operational status, etc;. Weather information - Updated weather information provided by ground communication channels;. Navigational help - depending on the circumstances, radar vectors could be required;. Additional Information - for example: type of emergency support at requested airport..

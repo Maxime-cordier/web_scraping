@@ -1,0 +1,1 @@
+Blocked Transmissions / Undetected Simultaneous Transmissions (USiT). Safety Warning Message: Undetected Simultaneous Transmissions. Frequency Congestion. Controller Pilot Data Link Communications (CPDLC). Call-sign Confusion. Radio Discipline.

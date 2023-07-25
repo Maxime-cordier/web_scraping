@@ -1,1 +1,0 @@
-Examples of FAA acceptable call sign designators with flight number: MDSTRl, RDDL172, ABX91, AAL351A and SWA2604. Examples of FAA unacceptable call sign designators with flight number: RDDL1720 (more than seven characters), NEWS42G (additional alphabet letter used for non-scheduled operator), BKA16CH (two alphabet letters), and LBQ17523 (more than seven characters).

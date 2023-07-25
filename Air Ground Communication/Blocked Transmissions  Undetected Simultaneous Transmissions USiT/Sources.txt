@@ -1,0 +1,1 @@
+Properties of the receiver to eliminate the weaker signal. “Best Signal Selection” (BSS) filters-out only one signal. Cross-coupled frequencies [1].

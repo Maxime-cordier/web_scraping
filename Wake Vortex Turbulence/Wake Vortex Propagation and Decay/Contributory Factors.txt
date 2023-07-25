@@ -1,0 +1,1 @@
+Aircraft weight. Aircraft speed. Aircraft wing configuration (Flap setting etc.). Closeness to the ground - vortex ceases to be hazardous when ground contact occurs. Wind velocity - light winds delay decay. Turbulence, from sources other than wake vortex, accelerates vortex decay.

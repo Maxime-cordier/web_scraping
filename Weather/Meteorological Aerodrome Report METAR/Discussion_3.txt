@@ -1,0 +1,1 @@
+period. To indicate the end of significant weather the abbreviation NSW (No Significant Weather) is used. Only those elements for which a significant change is expected should be included in a TREND.

@@ -1,1 +1,1 @@
-The main reasons to measure the temperature in a gas turbine are:
+The main reasons to measure the temperature in a gas turbine are: Performance evaluation - to calculate the efficiency of compressors and turbines.. Engine control - the output thrust of an engine can be set by reference to a specific temperature e.g. Turbine Inlet Temperature. Temperature limits are implemented in the control of the engine to avoid component damage.. Health monitoring of high temperature components - temperature history of components can be used to estimate their residual life..

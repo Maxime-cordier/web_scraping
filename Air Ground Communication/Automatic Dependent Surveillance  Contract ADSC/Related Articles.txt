@@ -1,0 +1,1 @@
+CPDLC. Automatic Dependent Surveillance - Broadcast (ADS-B). SATCOM. Aircraft Communications, Addressing and Reporting System. Controller Pilot Data Link Communications (CPDLC).

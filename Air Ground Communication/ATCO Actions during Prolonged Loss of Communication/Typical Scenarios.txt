@@ -1,1 +1,1 @@
-Typical situations conducive to PLOC include
+Typical situations conducive to PLOC include Readback / hearback error. No pilot readback due to distraction. Communication equipment problem. Wrong aircraft accepting frequency change (e.g. due to similar call-signs). Use of non standard phraseology for frequency change or poor air-ground communication (high speech rate, clipping transmissions, etc.), heavy accent. Blocked transmission. Radio interference. ‘Sleeping VHF receiver’. ‘Stuck microphone’.

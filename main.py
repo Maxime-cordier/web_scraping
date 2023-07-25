@@ -3,12 +3,13 @@ import requests, string, math, os
 
 # main
 def main():
+
     URL = "https://skybrary.aero"
     webSite = requests.get(URL)
     soup = BeautifulSoup(webSite.content, "html.parser")
     elements = soup.find_all("div", class_="term-name")
 
-    num_files = 0
+    num_all_files = 0
     size_all_files = 0
 
     for element in elements:
@@ -29,26 +30,13 @@ def main():
             group_items = soup_article.find("div", class_="group-left-bottom")
             
             
-            """# Parcourir le contenu HTML pour afficher les balises <h2> et <p>
-            current_h2 = None
-
-            for tag in group_items.find_all(['h2', 'p']):
-                if tag.name == 'h2':
-                    # Afficher le contenu de la balise <h2>
-                    current_h2 = tag.text.strip()
-                    print(f"\n<h2>{current_h2}</h2>")
-                elif tag.name == 'p':
-                    # Afficher le contenu de la balise <p> associée au dernier <h2>
-                    if current_h2 is not None:
-                        print(tag.text.strip())"""
-            
             # Initialiser un dictionnaire pour stocker le contenu des <h2> et <p>
             data_dict = {}
 
             # Parcourir le contenu HTML pour récupérer le contenu des <h2> et <p>
             current_h2 = None
             current_p = []
-            for tag in group_items.find_all(['h2', 'p']):
+            for tag in group_items.find_all(['h2', 'p', 'li']):
                 if tag.name == 'h2':
                     # Enregistrer le contenu du dernier <h2> et ses <p> associés
                     if current_h2 is not None and current_p:
@@ -62,6 +50,10 @@ def main():
                 elif tag.name == 'p':
                     # Ajouter le contenu du <p> à la liste en cours
                     current_p.append(tag.text.strip())
+
+                elif tag.name == 'li':
+                    # Ajouter le contenu du <li> à la liste en cours
+                    current_p.append(tag.text.strip()+".")
 
             # Sauvegarder le dernier <h2> et ses <p> associés (s'il y en a)
             if current_h2 is not None and current_p:
@@ -107,10 +99,10 @@ def main():
                     # Écrire le contenu dans le fichier .txt
                     with open(main_directory_name +"/"+ directory_name + filename, 'w', encoding='utf-8') as file:
                         file.write(file_content)
-                        num_files = num_files+1
-                        size_all_files = size_all_files + os.path.getsize(main_directory_name +"/"+ directory_name + filename)
+                    num_all_files = num_all_files+1
+                    size_all_files = size_all_files + os.path.getsize(main_directory_name +"/"+ directory_name + filename)
         
-    print("Generated files: "+str(num_files))
+    print("Generated files: "+str(num_all_files))
     
     # print size of all files in bytes if size is < 1MB or in MB if size is > 1MB or in GB if size is > 1GB
     if size_all_files < 1000000:
@@ -124,3 +116,4 @@ def main():
 # run main
 if __name__ == "__main__":
     main()
+    print("END")

@@ -1,1 +1,1 @@
-EUROCONTROL: Detailed information on ESARRs and related implementation guidance material can be found on EUROCONTROL website: http://www.eurocontrol.int/articles/src-publications
+EUROCONTROL: Guidance on the Criteria for the Assessment of Compliance with the Standards of ICAO Annex 11. Detailed information on ESARRs and related implementation guidance material can be found on EUROCONTROL website: http://www.eurocontrol.int/articles/src-publications

@@ -1,1 +1,0 @@
-The SNOWTAM message consists of a heading and a main body. The heading provides the usual AFTN data (priority, originator, addresses, etc.). The main body of a SNOWTAM comprises two sections: Example of a SNOWTAM for an aerodrome with two runways (the heading is omitted):

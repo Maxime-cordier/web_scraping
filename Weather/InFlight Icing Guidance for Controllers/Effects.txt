@@ -1,1 +1,1 @@
-In-flight icing could lead to many problems, quite different in nature, such as:
+In-flight icing could lead to many problems, quite different in nature, such as: Reduced lift - Increased drag. Uncommanded and uncontrolled roll - roll upset. Higher stall speed at lower angles of attack. Structural damage due induced vibration.

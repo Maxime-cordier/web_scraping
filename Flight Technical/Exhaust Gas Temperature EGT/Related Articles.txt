@@ -1,0 +1,1 @@
+Turbine Inlet Temperature (TIT). Interstage Turbine Temperature (ITT).

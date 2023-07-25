@@ -1,0 +1,1 @@
+Speed control is often the most efficient way for solving conflicts and traffic sequencing.. The added workload is relatively low, especially for thinner sectors where most level changes need to be coordinated with the neighbouring upper/lower sector..

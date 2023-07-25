@@ -1,0 +1,1 @@
+Accommodation of climb requests. Separation of departing and arriving traffic. Descending arriving aircraft below the overflying traffic. Vertical sequencing, i.e. establishing and maintaining vertical separation between two (or more) climbing or two (or more) descending aircraft. Corrective action (e.g. when the unrestricted vertical speed is considered insufficient).

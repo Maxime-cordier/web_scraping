@@ -1,0 +1,1 @@
+could be made to temporarily suspend RVSM operations. Nevertheless, losses of separation might occur during the transition period. Wake Vortex Turbulence encounter may also be a reason for an aircraft to be unable to maintain its level and thus lead to a separation loss.

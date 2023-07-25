@@ -1,0 +1,1 @@
+left heading 010 degrees". Note that ICAO Doc 9432 states that the word "Degrees" may be omitted in relation to radar headings but it may as well be used.. Caution should be exercised when vectoring VFR flights so that the aircraft does not inadvertently enter IMC or come in proximity with terrain..

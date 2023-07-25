@@ -1,1 +1,1 @@
-The terminology “altitude (or height) one thousand five hundred metres” is used by ATC when assigning flight altitude values in metres based upon:
+The terminology “altitude (or height) one thousand five hundred metres” is used by ATC when assigning flight altitude values in metres based upon: QNH for a flight below the transition level outside of the aerodrome control zone;. QFE for a flight within the the aerodrome control zone..
