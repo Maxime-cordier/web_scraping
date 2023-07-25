@@ -1,0 +1,1 @@
+EUROCONTROL: Detailed information on ESARRs and related implementation guidance material can be found on EUROCONTROL website: http://www.eurocontrol.int/articles/src-publications

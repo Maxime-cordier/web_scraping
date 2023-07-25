@@ -1,0 +1,1 @@
+For data availability and quality issues, International Civil Aviation Organisation (ICAO) limits itself to flights and accidents with the following parameters: Accidents are events as defined by the ADREP Occurrence Class Taxonomy.

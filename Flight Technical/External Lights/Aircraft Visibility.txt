@@ -1,0 +1,1 @@
+The following lighting systems are intended to reduce the potential of collision, by making the aircraft more visible to other aircraft while in flight and to ground traffic while manoeuvering on an aerodrome:

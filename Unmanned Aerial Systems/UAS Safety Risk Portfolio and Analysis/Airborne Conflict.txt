@@ -1,0 +1,1 @@
+Airborne conflict in the context of UAS specifically covers the risk of airborne collision between a drone and an aircraft in the air. This key risk area accounts for Mid Air Collision/Airprox and Navigation occurrences as well as safety occurrences related to ATM/ANS. Further details about the key risk area are provided in Chapter 10 of the analysis.

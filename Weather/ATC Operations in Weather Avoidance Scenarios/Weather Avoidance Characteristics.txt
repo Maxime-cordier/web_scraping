@@ -1,0 +1,1 @@
+When air traffic is avoiding Cumulonimbus (Cb) cells, particularly in congested airspace, the workload of the controller increases significantly. In such scenarios the increase in workload is caused by:

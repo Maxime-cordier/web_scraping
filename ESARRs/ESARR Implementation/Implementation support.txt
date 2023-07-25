@@ -1,0 +1,1 @@
+A variety of means and tools have been developed to support the implementation of ESARRs by national safety regulatory authorities and ATM service providers:

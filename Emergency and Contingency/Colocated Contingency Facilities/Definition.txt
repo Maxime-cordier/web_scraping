@@ -1,0 +1,1 @@
+Co-located contingency facilities provide fallback services at the same site as an existing ATM facility; these may include area control centres (ACCs) as well as existing training and simulation centres.

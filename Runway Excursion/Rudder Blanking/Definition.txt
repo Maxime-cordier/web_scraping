@@ -1,0 +1,1 @@
+Loss or reduction of effectiveness of the rudder (loss of aerodynamic directional control) as a result of a gross disturbance of the airflow upstream of the rudder. The difference between blanking and stalling is that blanking is the result of some upstream effect while stalling is the result of operating the surface itself at too large an angle of attack.

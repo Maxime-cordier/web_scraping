@@ -1,0 +1,1 @@
+Civil aircraft may be equipped with transponders capable of operating in different modes: Mode C or S equipment is a mandatory requirement for many busy areas of controlled airspace. Transponders have an “Ident” facility which causes the aircraft radar response to stand out when the pilot operates the Ident switch in the cockpit. This should only be operated upon ATC request.

@@ -1,0 +1,1 @@
+The autoland system incorporates numerous aircraft components and systems such as the autopilot(s), autothrust, radio altimeters and nose wheel steering. Although not an integral component of the autoland system, the autobrake system is often used in conjunction with an automatic landing.

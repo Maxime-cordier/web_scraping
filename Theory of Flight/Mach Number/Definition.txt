@@ -1,0 +1,1 @@
+The ratio between the true air speed (TAS) and the local speed of sound (LSS). This ratio, which equals one when the TAS is equal to the LSS, is known as the Mach Number (M) and is very important in aircraft operating at high speed.

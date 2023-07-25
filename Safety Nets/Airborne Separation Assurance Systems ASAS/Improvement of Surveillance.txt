@@ -1,0 +1,1 @@
+To support pilots in unforeseen situations, automation and instrumentation need to promote a high level of situational awareness. Improved ground and airborne surveillance might increase the level of situational awareness. ASAS includes 12 operational applications for ground and airborne surveillance: Ground Surveillance (GS) applications: Airborne Surveillance (AS) applications:

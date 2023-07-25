@@ -1,0 +1,1 @@
+NOSS is based on the Threat and Error Management (TEM) framework as developed by the University of Texas.

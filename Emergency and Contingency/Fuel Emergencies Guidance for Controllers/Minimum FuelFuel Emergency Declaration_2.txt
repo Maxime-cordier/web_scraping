@@ -1,0 +1,1 @@
+the calculated usable fuel predicted to be available upon landing at the nearest aerodrome where a safe landing can be made is less than the planned final reserve fuel. Declaration of a fuel emergency is an explicit statement that priority handling by ATC is both required and expected.

@@ -1,0 +1,1 @@
+Aviation hydraulic systems, in general, are of the "open loop" variety drawing fluid from a reservoir, pressurizing it and making it available to the various user components before returning the fluid to the reservoir. The primary components of the "plumbing" portion of the hydraulic system include the following:

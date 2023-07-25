@@ -8,6 +8,8 @@ def main():
     soup = BeautifulSoup(webSite.content, "html.parser")
     elements = soup.find_all("div", class_="term-name")
 
+    num_files = 0
+
     for element in elements:
         URL_element = URL + element.find("a")["href"]
         webSite_element = requests.get(URL_element)
@@ -103,8 +105,9 @@ def main():
                     # Écrire le contenu dans le fichier .txt
                     with open(main_directory_name +"/"+ directory_name + filename, 'w', encoding='utf-8') as file:
                         file.write(file_content)
+                        num_files = num_files+1
         
-
+    print("Generated files: "+str(num_files))
       
 # run main
 if __name__ == "__main__":

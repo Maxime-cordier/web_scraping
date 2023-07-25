@@ -1,0 +1,1 @@
+The European Union’s initial drone-identification regulations, which began to take effect in April 2019, introduced Direct Remote Identification requirements. If a UAS falls under these requirements and already has the specified built-in Direct Remote Identification broadcast function, that satisfies EASA. Otherwise, the operator must provide an equivalent add-on module that:

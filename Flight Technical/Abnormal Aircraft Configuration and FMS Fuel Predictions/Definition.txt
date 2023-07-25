@@ -1,0 +1,1 @@
+An Abnormal Aircraft Configuration is considered to be a configuration which is not appropriate for the phase of flight. This could occur intentionally such as during a gear down ferry flight or as the result of a system malfunction or failure such as a slat or flap jamb, flap brakes engagement or landing gear failure to retract.

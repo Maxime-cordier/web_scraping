@@ -1,0 +1,1 @@
+In addition to airspeed indicators, systems which rely on information directly or indirectly (via Air Data Computers) from the pitot-static system are also unreliable if the pitot static system is blocked in some way.

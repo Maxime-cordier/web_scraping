@@ -1,0 +1,1 @@
+Aircraft compliant with Mode S EHS provide ELS functionality features (see above) plus some or all of the following downlinked aircraft parameters (DAPs): In addition to the benefits for Mode S ELS, identified above, aircraft with Mode S EHS also provide the following operational benefits:

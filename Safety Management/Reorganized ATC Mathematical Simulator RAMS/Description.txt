@@ -1,0 +1,1 @@
+The original Reorganized ATC Mathematical Simulator (RAMS) is a fast-time simulation tool developed by the EUROCONTROL Experimental Center (EEC) at Bretigny (France) and CACI Inc. in 1993. Reorganized ATC Mathematical Simulator (RAMS) official release 2.0 was carried out in November 1995. RAMS Plus is developed, supported, and distributed exclusively by ISA Software.

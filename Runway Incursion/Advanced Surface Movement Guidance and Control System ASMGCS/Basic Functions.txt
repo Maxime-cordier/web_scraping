@@ -1,0 +1,1 @@
+As described in the ICAO Manual (see further reading), A-SMGCS consisits of four basic functions:

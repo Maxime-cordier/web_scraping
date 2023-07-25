@@ -1,0 +1,1 @@
+The engineering aspects of contingency involve planning for, and coordinating the technical response to, contingency when loss of service in one member subsystem can have knock-on effects across the underlying infrastructure.

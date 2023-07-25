@@ -1,0 +1,1 @@
+The most common scenarios where controllers need to consider the presence of military aircraft while providing air traffic services have been identified below. In some cases, the operational traffic may be under the control of a civil ATC unit.

@@ -1,0 +1,1 @@
+If temperature is measured by means of a sensor positioned in the airflow, kinetic heating will result, raising the temperature measured above the OAT. The temperature measured in this way is known as the Total Air Temperature (TAT) and is used in ADCs to calculate True Airspeed (TAS). Careful design and siting of the TAT probe is necessary to ensure accurate measurement of TAT.

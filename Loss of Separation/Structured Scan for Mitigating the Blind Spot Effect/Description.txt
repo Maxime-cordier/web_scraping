@@ -1,0 +1,1 @@
+This article describes the contributing factors that may lead to controllers not performing a proper structured scan (and ultimately result in a “blind spot” event) as well as the best practices to be used for preventing this.

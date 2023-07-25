@@ -1,0 +1,1 @@
+FORAS is a pro-active, pre-flight aviation risk assessment system that considers flight and flight related operational variables (including crew, aircraft, and airport risk factors) to generate a single flight operational risk index used to enhance the crew's and aviation organization's risk awareness.

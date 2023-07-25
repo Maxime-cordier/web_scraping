@@ -1,0 +1,1 @@
+Within the MTCD application several functions are identified at the level of the ground system:

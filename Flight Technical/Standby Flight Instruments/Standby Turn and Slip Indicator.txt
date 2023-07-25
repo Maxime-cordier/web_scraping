@@ -1,0 +1,1 @@
+A self-contained Turn and Slip, gyro driven rate of turn/slip indicator, with power warning flag

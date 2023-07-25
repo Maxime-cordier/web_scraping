@@ -1,0 +1,1 @@
+Friction Drag, also known as Skin Friction Drag, is drag caused by the friction of a fluid against the surface of an object that is moving through it. It is directly proportional to the area of the surface in contact with the fluid and increases with the square of the velocity. In aerodynamics, the fluid concerned is the atmosphere.

@@ -1,0 +1,1 @@
+The controllers should be aware that the flight crew can often be reluctant to declare a fuel emergency. ‘Fuel Emergency’ is not a term that is recognised in some States as a category of emergency - the pilot should be asked if he/she wishes to declare an emergency.

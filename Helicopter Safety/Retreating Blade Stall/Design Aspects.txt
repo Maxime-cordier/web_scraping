@@ -1,0 +1,1 @@
+Developed in the 1980’s, the BERP (British Experimental Rotor Programme) rotor blade design has, by design, altered the area of effect of vortices and delayed the onset of retreating blade stall, allowing greater Vne and other performance improvements.

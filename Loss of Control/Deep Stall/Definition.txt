@@ -1,0 +1,1 @@
+A Deep Stall, sometimes referred to as a Super Stall, is a particularly dangerous form of stall that results in a substantial reduction or loss of elevator authority making normal stall recovery actions ineffective. In many cases, an aircraft in a Deep Stall might be unrecoverable. This phenomenon affects certain aircraft designs, most notably those with a T-tail configuration.

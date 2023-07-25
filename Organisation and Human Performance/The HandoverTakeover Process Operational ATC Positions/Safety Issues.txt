@@ -1,0 +1,1 @@
+A number of safety issues arise during the handover-takeover process. Some of them are equipment-related while others are caused by human factors. The most notable of these are:

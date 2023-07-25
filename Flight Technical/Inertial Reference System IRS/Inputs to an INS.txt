@@ -1,0 +1,1 @@
+Although an INS is essentially a “self-contained” navigation system, it does perform better when provided with some data inputs. These may include:

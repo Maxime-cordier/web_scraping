@@ -1,0 +1,1 @@
+The Takeoff Configuration Warning System is, in most aircraft types, armed by one of: When the arming condition(s) have been met, sensors on the monitored systems will provide position or status information to the Takeoff Configuration Warning System and an alarm will be generated if a monitored component is not in an approved takeoff configuration.

@@ -1,0 +1,1 @@
+A system which automatically performs an emergency descent to an altitude which does not necessitate supplementary oxygen when the crew does not respond to warnings concerning cabin altitude. Such systems are under development by major manufacturers and are currently in use in some aircraft types.

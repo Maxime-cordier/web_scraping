@@ -1,0 +1,1 @@
+This article provides generic guidance on the use of weather radar to detect and avoid hazards associated with Cumulonimbus (Cb) clouds. Reference should always be made to the manufacturers operating instructions as different weather radars may well have different capabilities and require different handling techniques.

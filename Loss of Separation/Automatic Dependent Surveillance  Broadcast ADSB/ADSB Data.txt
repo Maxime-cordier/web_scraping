@@ -1,0 +1,1 @@
+The ADS-B data transmitted are defined in the relevant standards and certification documents (e.g. EASA AMC 20-24 for ADS-B in Non-Radar Airspace or CS-ACNS for “ADS-B out”). They include (amongst others) the following:

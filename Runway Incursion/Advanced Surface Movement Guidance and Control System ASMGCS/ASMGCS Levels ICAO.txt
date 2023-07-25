@@ -1,0 +1,1 @@
+In 2004, ICAO defines 4 levels of A-SMGCS implementation based on a complexity and traffic density approach:

@@ -1,0 +1,1 @@
+Flight control response and aircraft handling characteristics, especially as the aircraft configuration is changed, may have been compromised by the damage caused by the engine failure. Note that “fly by wire” aircraft may mask some of the degraded handling symptoms and make them more difficult to assess.

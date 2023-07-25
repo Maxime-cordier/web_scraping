@@ -1,0 +1,1 @@
+PinS concept for departures can be summarized as follows: The instrument flight phase starts once the pilot has passed the IDF at or above a certain altitude (MCA: Minimum Crossing Altitude).

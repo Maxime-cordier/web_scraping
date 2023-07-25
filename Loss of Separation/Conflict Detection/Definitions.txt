@@ -1,0 +1,1 @@
+Conflict. Predicted converging of aircraft in space and time which constitutes a violation of a given set of separation minima. Conflict detection. The discovery of a conflict as a result of a conflict search. Conflict search. Computation and comparison of the predicted flight paths of two or more aircraft for the purpose of determining conflicts. Source: ICAO Doc 9426

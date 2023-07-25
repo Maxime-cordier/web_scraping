@@ -1,0 +1,1 @@
+Integrated Tower Working Position (ITWP) is an enhancement of the surveillance system. It combines surveillance data with controller input (clearances issued). A dedicated study has shown that ITWP has the potential to prevent most conflicts on the manoeuvring area.

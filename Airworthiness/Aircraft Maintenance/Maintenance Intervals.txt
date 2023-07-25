@@ -1,0 +1,1 @@
+The intervals of maintenance are parameters set within the Approved Maintenance Schedule (AMS), which is in turn based on the Maintenance Planning Document (MPD). These will be set according to different criteria, mostly depending on how well damage can be detected and failure predicted [CAA, 2017]:

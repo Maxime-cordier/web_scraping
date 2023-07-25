@@ -1,0 +1,1 @@
+For approach procedures, altitudes are assigned in metres. Aircraft that are not equipped with metric altimeters will fly the procedures in feet. Jeppesen and other approach charts sources provide a conversion chart on the approach plate which cross references metres and feet and QFE/QNH altitudes for all of the charted altitudes of the procedure depicted.

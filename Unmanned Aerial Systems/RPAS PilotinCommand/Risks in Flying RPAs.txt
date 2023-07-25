@@ -1,0 +1,1 @@
+EUROCONTROL described in 2012 the following risk factors and practical challenges for RPICs related to the inherent differences of manned vs. unmanned aircraft systems. The researchers’ case study anticipated that military RPICs increasingly would fly outside segregated airspace, suggesting the following issues:

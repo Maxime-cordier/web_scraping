@@ -1,0 +1,1 @@
+It is always useful to check mentally that loading figures make sense. While it may not be true for every situation (so pilots must review the circumstance of their own operation before using this), many pilots find the following rule of thumb effective: 10 pax equates to 1 ton. For a very rough estimate: Trip fuel = flight time x cruise fuel flow

@@ -1,0 +1,1 @@
+There are a number of advantages to an ACMS, the most obvious of which is enhanced safety. Detecting and addressing a pending failure can prevent the potential damage and the associated safety risk of a catastrophic failure. Other advantages include:

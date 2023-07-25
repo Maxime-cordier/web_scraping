@@ -1,0 +1,1 @@
+The following measures can be used to mitigate the safety issues and to cope with the challenges posed by FRA implementation. The list is not to be considered exclusive.

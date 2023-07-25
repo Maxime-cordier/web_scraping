@@ -1,0 +1,1 @@
+Having chosen an aircraft and the direction of turn, the controller needs to determine the extent of the heading change. The track crossing angle is crucial at this stage as it determines: The general impact of the crossing angle is as follows:

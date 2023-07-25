@@ -1,0 +1,1 @@
+After the aircraft to be vectored has been chosen, the controller decides the direction of the turn. The following general principles are used:

@@ -1,0 +1,1 @@
+The priority of the ‘fail to safe’ phase is to ensure the safety of contingency operations in the immediate aftermath of an emergency and to lay the foundations for the service continuity and recovery phases.

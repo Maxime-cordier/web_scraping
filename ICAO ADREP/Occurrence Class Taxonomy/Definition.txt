@@ -1,0 +1,1 @@
+The ADREP Occurrence class taxonomy is a set of terms used by ICAO to categorize occurrences by severity and allow safety trend analysis on these categories. The ADREP Occurrence class taxonomy is part of the ICAO accident data reporting system (ADREP).

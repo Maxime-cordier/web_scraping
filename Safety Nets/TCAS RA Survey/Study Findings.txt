@@ -1,0 +1,1 @@
+The statistical analysis that took into account the number of events (i.e. more than one event per person) concluded that the percentage of RAs that are not followed is likely to be around 11%. A total of 18 reasons (out of 20 possible) were stated for not following a TCAS RA.

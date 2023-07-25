@@ -1,0 +1,1 @@
+Best practice, as embedded in the ASSIST principle, could be followed: (A - Acknowledge; S - Separate, S - Silence; I - Inform, S - Support, T - Time) Note that the actions above are suitable for the MAYDAY FUEL scenario. In case of MINIMUM FUEL, the following steps are normally omitted, as they are only related to emergency situations:

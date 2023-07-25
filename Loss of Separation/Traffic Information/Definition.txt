@@ -1,0 +1,1 @@
+Traffic information is information issued by an air traffic services unit to alert a pilot of other known or observed air traffic which may be in proximity to the position or intended route of flight and to help the pilot avoid a collision. (ICAO Doc 4444: PANS-ATM.)

@@ -1,0 +1,1 @@
+Fatal For statistical purposes "Fatal" is death from an injury received in the occurrence which occurs within 30 days of the accident. Serious A serious injury is an injury sustained by a person in an accident and which: Minor Any other injuries other than fatal or serious are minor. None Nobody was injured during the occurence. Unknown The injury level is unknown.

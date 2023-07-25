@@ -1,0 +1,1 @@
+This article describes the proces of handover-takeover (HOTO) of operational ATC positions. It explains the basic principles of the process, the controller rotation types, the safety issues and the measures that can prevent or mitigate the associated risks.

@@ -1,0 +1,1 @@
+Errors are the result of actions that fail to generate the intended outcomes. They are categorized according to the cognitive processes involved towards the goal of the action and according to whether they are related to planning or execution of the activity.

@@ -1,0 +1,1 @@
+The EUROCONTROL Safety Assessment Methodology (SAM) is a framework, a toolbox containing methods and techniques to develop safety assessment of changes to functional systems of the Air Navigation Service Providers (ANSP). SAM presents a general overview of Air Navigation Systems safety assessment from an engineering perspective.

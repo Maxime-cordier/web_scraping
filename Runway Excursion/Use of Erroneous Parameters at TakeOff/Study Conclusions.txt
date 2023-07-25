@@ -1,0 +1,1 @@
+Multiple NAAs and research facilities have studied the Erroneous Parameter issue using various tools such as Safety Occurrence Investigation reports, Flight Data Monitoring (FDM), Safety Surveys and specifically designed pilot/operator questionnaires. These tools have identified a number of issues inclusive of the following:

@@ -1,0 +1,1 @@
+As well as the standard ACAS X (known as ACAS XA) variants are under consideration to extend collision avoidance protection to situations and user classes that currently do not benefit from TCAS II:

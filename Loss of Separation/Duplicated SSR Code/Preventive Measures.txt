@@ -1,0 +1,1 @@
+Example of a duplicate SSR warning feature. The tracks that have duplicate SSR codes have different symbols (triangles) and are bright in colour (orange) to attract controller's attention

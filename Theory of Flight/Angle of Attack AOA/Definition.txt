@@ -1,0 +1,1 @@
+The Angle of Attack is the angle at which relative wind meets an Aerofoil. It is the angle formed by the Chord of the aerofoil and the direction of the relative wind or the vector representing the relative motion between the aircraft and the atmosphere. The angle of attack can be simply described as the difference between where a wing is pointing and where it is going.

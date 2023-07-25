@@ -1,0 +1,1 @@
+An Aircraft Condition Monitoring System (ACMS) is a predictive maintenance tool consisting of a high capacity flight data acquisition unit and the associated sensors that sample, monitor, and record, information and flight parameters from significant aircraft systems and components.

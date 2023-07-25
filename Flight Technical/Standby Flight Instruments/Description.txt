@@ -1,0 +1,1 @@
+A limited range of electromechanical instruments are normally provided as back-up; alternatively, electronic standby flight instrument displays may be provided. Standby systems are fed from independent power supplies and sensors to ensure continuity of operation in the event of main system failure.

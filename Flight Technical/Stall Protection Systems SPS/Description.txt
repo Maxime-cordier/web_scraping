@@ -1,0 +1,1 @@
+Operating an aircraft in the stalled flight region can lead to loss of control. To prevent this from happening, aircraft certification requirements establish that the subject aircraft demonstrate sufficient stall warning margin and effectiveness. Stall warning systems (SWS) and stall protection systems (SPS) are designed to satisfy the regulatory stall warning requirements.

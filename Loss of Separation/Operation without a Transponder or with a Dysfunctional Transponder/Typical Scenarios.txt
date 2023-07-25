@@ -1,0 +1,1 @@
+A total loss of transponder information may happen due to a number of factors, e.g.: Intermittent or corrupted mode C signal may be caused by various technical faults of the on-board equipment or by radar detection failures. Duplicate Mode S addresses although unlikely, may happen due to: ATC system failures may sometimes result in outcomes similar to transponder failure, e.g.:

@@ -1,0 +1,1 @@
+According to best practices described in 2017 for RPAS missions inspecting infrastructure of U.S. electric utility companies, RPICs prepare and conduct crew briefings for complex missions based on:

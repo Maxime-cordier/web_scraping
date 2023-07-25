@@ -1,0 +1,1 @@
+There are many hazards associated with incorrect or inadequate avoiding instructions. In the case of loss of separation and Short Term Conflict Alert (STCA) alert, controller actions, delay or lack of action may lead to certain operational hazards such as:

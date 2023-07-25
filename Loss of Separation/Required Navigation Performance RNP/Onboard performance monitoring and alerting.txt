@@ -1,0 +1,1 @@
+The on-board performance monitoring and alerting requirements for RNP 4, RNP 2, Advanced RNP, RNP 1 RNP APCH and RNP 0.3 have common terminology and application. Each of these RNP specifications includes requirements for the following characteristics:

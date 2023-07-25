@@ -1,0 +1,1 @@
+Note: Combined vertical speed is the sum of the vertical speeds of a climbing and a descending aircraft, e.g. if aircraft A is climbing at 1500 ft/min and aircraft B is descending at 2000 ft/min, then the combined vertical speed is 3500 ft/min.

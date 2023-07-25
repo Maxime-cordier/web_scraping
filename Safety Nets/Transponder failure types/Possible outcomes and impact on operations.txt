@@ -1,0 +1,1 @@
+A duplicated mode A or mode S 24-bit address is not properly handled (or is neglected) may ultimately lead to: Corrupted or intermittent mode C altitude information may lead to: Total loss of transponder information may lead to:

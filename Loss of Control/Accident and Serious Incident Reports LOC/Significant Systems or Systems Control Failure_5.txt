@@ -1,0 +1,1 @@
+an upgraded cable had not been taken. It also found the aircraft had a history of an intermittently unresponsive right aileron and discovered that signal noise filters which smoothed recorded data for all three primary flight control channels compromised FDR data value.

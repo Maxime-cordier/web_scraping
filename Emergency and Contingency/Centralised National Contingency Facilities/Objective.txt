@@ -1,0 +1,1 @@
+Single contingency centres can be developed to cover several ATM units. This reduces the costs over what would be incurred if contingency facilities were duplicated for each centre within a country. Infrastructure resources can be focused around a single contingency facility that can then be reconfigured for each area control centre (ACC) operated by an ANSP.

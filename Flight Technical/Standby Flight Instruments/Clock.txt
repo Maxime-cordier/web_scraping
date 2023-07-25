@@ -1,0 +1,1 @@
+A combined mechanical Clock/Stopwatch with hands for hours, minutes, seconds, and time elapsed.

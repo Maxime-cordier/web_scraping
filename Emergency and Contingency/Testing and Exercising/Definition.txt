@@ -1,0 +1,1 @@
+Testing and exercising are the processes and procedures that are used to validate primary requirements, including those for safety and security, and to verify that particular contingency plans satisfy those requirements.

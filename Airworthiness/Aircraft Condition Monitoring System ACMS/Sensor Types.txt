@@ -1,0 +1,1 @@
+Depending upon the piece of machinery or type of component concerned, there are a number of different parameters that can be measured or monitored. There are also a number of different types of sensor with which these measurements can be accomplished. Sensor types include, but are not limited to:

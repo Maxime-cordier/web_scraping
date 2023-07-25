@@ -1,0 +1,1 @@
+The ADREP injury level taxonomy is a set of terms used by ICAO to categorize an occurrence by the highest level of injury sustained by any person in that occurrence and to allow safety trend analysis on these categories. The ADREP injury level taxonomy is part of the ICAO accident data reporting system (ADREP).

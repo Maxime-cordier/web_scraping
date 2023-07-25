@@ -1,0 +1,1 @@
+When considering solutions to a problem, some options may be perfectly valid, and even ideal, except certain elements preclude them from being considered as a viable choice, e.g.:

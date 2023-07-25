@@ -1,0 +1,1 @@
+Calibrated Airspeed (CAS) corrected for altitude and non-standard temperature - the speed of the aircraft relative to the airmass in which it is flying.

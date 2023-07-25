@@ -1,0 +1,1 @@
+For a 3 degree glideslope, required rate of descent in feet per minute is approximately equal to ground speed in knots multiplied by 5. From the above, at 120 knots GS, the rate of descent to maintain a 3 degree glideslope is approximately 600 fpm

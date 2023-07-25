@@ -1,0 +1,1 @@
+In practice, aircraft are frequently hit by lightning with little or no physical damage. Aircraft are normally designed and certified to withstand lightning strikes. However, narrow-bodied aircraft equipped with FADEC controlled, aft fuselage mounted engines have been found to be vulnerable to double engine flame-out in the event of a lightning strike.

@@ -1,0 +1,1 @@
+There are two major safety issues with the use of own separation: Own separation is NOT to be used:

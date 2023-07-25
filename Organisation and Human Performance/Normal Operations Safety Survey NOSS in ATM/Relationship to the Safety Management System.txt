@@ -1,0 +1,1 @@
+Safety data from NOSS are data that are not otherwise available. As such they complement the traditional sources of data of a safety management system. NOSS is regarded as a component of an ATC safety management system (SMS).

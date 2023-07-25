@@ -1,0 +1,1 @@
+Minimum time separation for departing aircraft which are using: is 3 minutes between and 4 minutes between a LIGHT or MEDIUM aircraft when taking off behind a SUPER aircraft.

@@ -1,0 +1,1 @@
+MARIA is neither a business, nor a safety model. It is built to allow several perspectives of analysis depending on the aim at hand. It may be used in simulations to identify strong and weak points, to evaluate risk mitigation strategies and for other purposes. The following goals were defined at the start of model development:

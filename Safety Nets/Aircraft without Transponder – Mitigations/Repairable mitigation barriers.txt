@@ -1,0 +1,1 @@
+A mitigation barrier is called “repairable” when a failure has reduced the effectiveness of a barrier in the system, but certain actions may be able to restore its effectiveness. The main repairable mitigation barrier at each stage are:

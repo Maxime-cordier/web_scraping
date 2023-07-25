@@ -1,0 +1,1 @@
+In all circumstances, performance calculations must take density altitude into consideration when calculating maximum takeoff weight, climb gradient, missed approach climb gradient and stopping distance. In addition, the following items should be considered to reduce the impact of “hot and high” operations:

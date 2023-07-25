@@ -1,0 +1,1 @@
+The procedures for handover-takeover are usually different depending on the workplace (TWR, APP or ACC) and vary significantly from one ANSP to another. There are however some common principles that are adopted in most cases:

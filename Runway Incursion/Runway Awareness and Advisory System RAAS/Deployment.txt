@@ -1,0 +1,1 @@
+RAAS is provided as standard on new production Boeing aircraft and may be retrofitted to approved older aircraft types. The current version of RAAS does not provide information on the position of other aircraft or vehicles and does not detect potential conflicts on the taxiways and runways.

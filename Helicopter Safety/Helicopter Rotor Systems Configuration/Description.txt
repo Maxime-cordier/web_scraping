@@ -1,0 +1,1 @@
+A rotor provides lift, which can be employed to keep the aircraft airborne and to provide thrust. A rotor can also counteract torque (tail rotors). Several rotor designs and configurations have been implemented over time.

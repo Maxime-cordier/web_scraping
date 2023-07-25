@@ -1,0 +1,1 @@
+Density altitude is pressure altitude corrected for temperature. In layman's terms it directly affects the performance parameters of any aircraft, and in effect it is the equivalent altitude of where, performance-wise, the aircraft “thinks” it's at. The higher the density altitude, the lower the aircraft performance, and vice versa.

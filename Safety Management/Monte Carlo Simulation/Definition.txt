@@ -1,0 +1,1 @@
+Monte Carlo Simulation, sometimes referred to as the Monte Carlo method, is a computerized mathematical technique that allows risk to be accounted for in quantitative analysis and decision making.

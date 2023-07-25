@@ -1,0 +1,1 @@
+Severity classification schemes for ATM related occurrences are developed in a companion document to ESARR 2 (see below) to enable its implementation by national regulatory and service provider organisation. The schemes allow:

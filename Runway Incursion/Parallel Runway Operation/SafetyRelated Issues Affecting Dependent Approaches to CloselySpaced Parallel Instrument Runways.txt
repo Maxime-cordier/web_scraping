@@ -1,0 +1,1 @@
+The minimum spacing between two aircraft in the event of a deviation is calculated using techniques similar to those used for independent parallel approaches. Two factors apply:

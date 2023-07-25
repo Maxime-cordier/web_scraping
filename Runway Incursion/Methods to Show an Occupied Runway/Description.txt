@@ -1,0 +1,1 @@
+This article describes the most common methods used to alert the controllers of an occupied runway. It elaborates on the memory aids, surveillance systems and integrated solutions used for this purpose.

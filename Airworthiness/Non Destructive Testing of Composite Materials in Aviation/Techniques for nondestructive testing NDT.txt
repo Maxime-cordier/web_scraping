@@ -1,0 +1,1 @@
+Due to the anisotropic nature of composites, whose characteristics depend on the direction along which they are considered, the identification of damage requires NDT techniques to be carried out by qualified personnel according to EN4179 standard (under EASA) or in accordance with MIL-STD-410 (under the FAA). These techniques are based on different methodologies.

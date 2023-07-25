@@ -1,0 +1,1 @@
+For TCAS II systems to work as designed and to resolve a risk of mid-air collision, immediate and correct flight crew response to TCAS resolution advisories (RA) is essential. TCAS has been deployed to act as a last resort safety net to mitigate the risk of midair collisions by providing flight crews with collision avoidance advice.

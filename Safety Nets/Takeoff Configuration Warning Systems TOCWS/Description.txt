@@ -1,0 +1,1 @@
+A Takeoff Configuration Warning System is a safety device intended to help ensure that takeoff is not attempted with the aircraft in an inappropriate or unsafe configuration.

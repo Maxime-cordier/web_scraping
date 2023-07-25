@@ -1,0 +1,1 @@
+FADEC is a system consisting of a digital computer, called an electronic engine controller (EEC) or engine control unit (ECU), and its related accessories that control all aspects of aircraft engine performance.

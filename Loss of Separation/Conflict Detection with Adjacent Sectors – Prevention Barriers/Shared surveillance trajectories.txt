@@ -1,0 +1,1 @@
+This feature is mainly used for sectors which are part of a common centre. Sectors downstream from the planned trajectory are presented with amended flight profiles as these are amended tactically (i.e. as soon as the current sector completes a trajectory update all downstream sectors receive the new trajectory).

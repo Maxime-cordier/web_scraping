@@ -1,0 +1,1 @@
+While displaying ACAS RAs to the controller would generally enhance their situational awareness, there also are a few issues causing concern:

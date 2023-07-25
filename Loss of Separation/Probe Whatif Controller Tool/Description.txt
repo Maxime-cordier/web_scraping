@@ -1,0 +1,1 @@
+Probe (what-if) is a tool that allows the controller to test whether a planned clearance would cause a conflict without making any real change to the system.

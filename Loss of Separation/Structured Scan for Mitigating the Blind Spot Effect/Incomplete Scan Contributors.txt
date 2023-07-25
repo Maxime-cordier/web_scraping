@@ -1,0 +1,1 @@
+All controllers are well aware of the benefits of the structured scan. Also, they were taught how to do it during their training. Nevertheless, sometimes a controller would fail to properly perform this procedure. This is usually not attributed to poor training or lack of competence and in most cases the situation involves one or more of the following contributing factors:

@@ -1,0 +1,1 @@
+Bleed air, extracted from either the Auxiliary Power Unit (APU) or another operating engine is used to power an air turbine starter motor to start the engine. The primary advantage of an air turbine starter is that a given amount of torque can be produced by a smaller and lighter unit than would be the case if it was electrically or hydraulically powered.

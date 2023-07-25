@@ -1,0 +1,1 @@
+An increase in angle of attack results in an increase in both lift and induced drag, up to a point. Too high an angle of attack (usually around 17 degrees) and the airflow across the upper surface of the aerofoil becomes detached, resulting in a loss of lift, otherwise known as a Stall. CopyrightSKYbrary

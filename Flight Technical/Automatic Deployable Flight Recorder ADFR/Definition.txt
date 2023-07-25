@@ -1,0 +1,1 @@
+A combination flight recorder installed on the aircraft which is capable of automatically deploying from the aircraft. (source: ICAO)

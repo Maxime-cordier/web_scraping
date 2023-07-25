@@ -1,0 +1,1 @@
+As well as raw acceleration data in all planes and axes, typical Inertial outputs fed to other aircraft avionics and systems include, but are not limited to:

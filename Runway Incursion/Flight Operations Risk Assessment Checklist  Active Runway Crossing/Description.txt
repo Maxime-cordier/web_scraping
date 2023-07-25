@@ -1,0 +1,1 @@
+The risk of collision between aircraft while one is crossing an active runway may arise through an error by ATC or flight crew. This check-list identifies the potential sources of such errors so that flight crew may be in the best possible position to deal with their own errors or those of others. This risk is an important sub-set of the general risk of Runway Incursion.

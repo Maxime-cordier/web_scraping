@@ -1,0 +1,1 @@
+In terms of dimension there is a maximum of seven levels of decomposition of a function. Each node has as properties: Name, Parent, Unit, Extras and Type (optional); each flow is described by: Name, Parent, Origin, Control, Destination, Enabler, Extras and Unit (optional). The following table provides information MARIA’s current dimension.

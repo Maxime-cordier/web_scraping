@@ -1,0 +1,1 @@
+Before implementing changes it is important to analyse the disposition and condition of the system before the change. Key descriptors of system’s disposition, may include:

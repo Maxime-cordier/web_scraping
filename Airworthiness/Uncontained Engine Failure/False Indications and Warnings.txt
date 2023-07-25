@@ -1,0 +1,1 @@
+Severed wire bundles may result in false indications and warnings, potentially for other engines or aircraft systems. The pilots must use all means at their disposal to confirm the validity of those indications before actioning any emergency checklists.

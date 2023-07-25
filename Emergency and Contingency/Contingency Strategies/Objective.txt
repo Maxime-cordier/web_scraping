@@ -1,0 +1,1 @@
+A variety of air navigation services (ANS) contingency strategies are available to help ANSPs move away from the high level abstraction of the Contingency Lifecycle and the Operational Concept towards more detailed planning of contingency measures.

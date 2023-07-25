@@ -1,0 +1,1 @@
+The most common transponder failure types classified by feature are: The most common transponder failures classified by the severity of the failure are: The transponder failure can be characterised by a feature failure and a severity element. Of course, some combinations are inappropriate (e.g. duplicated mode C).

@@ -1,0 +1,1 @@
+A Fatigue Risk Management System (FRMS) has been defined by ICAO as "a data-driven means of continuously monitoring and maintaining fatigue related safety risks, based upon scientific principles and knowledge as well as operational experience that aims to ensure relevant personnel are performing at adequate levels of alertness".

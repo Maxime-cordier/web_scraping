@@ -1,0 +1,1 @@
+Aviation Performance Measuring System - Developed at National Aeronautics and Space Administration Ames Research Centre in 1993, Aviation Performance Measuring System (APMS) is implemented at US carriers participating in Space Act Agreements, and transferred to the FOQA (Flight Operations Quality Assurance) software vendor community.

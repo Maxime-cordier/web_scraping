@@ -1,0 +1,1 @@
+Controllers memory aids are used to assist the controller in maintaining situational awareness. These require manual input. The most common memory aids are:

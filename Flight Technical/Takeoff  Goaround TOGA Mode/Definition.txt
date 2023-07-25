@@ -1,0 +1,1 @@
+Take-off/Go Around (TO/GA) is an autopilot/autothrottle setting activating take-off or go-around thrust. Depending upon aircraft type, it may be activated by depressing a switch or by manually moving the thrust levers to the appropriate position.

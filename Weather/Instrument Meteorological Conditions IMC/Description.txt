@@ -1,0 +1,1 @@
+Instrument meteorological conditions (IMC) are meteorological conditions expressed in terms of visibility, distance from cloud, and ceiling, less than the minima specified for visual meteorological conditions (VMC). (ICAO Annex 2) VMC are detailed in ICAO Annex 2: Rules of the Air, Chapter 4: Visual Flight Rules. Essentially, they are:

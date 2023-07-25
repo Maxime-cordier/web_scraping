@@ -1,0 +1,1 @@
+The following factors should be considered by the controllers having aircraft with no or corrupt transponder reading within their area of responsibility:

@@ -1,0 +1,1 @@
+Events that are supposed to be reported: Events that are not supposed to be reported: Situations when a CHIRP report might be necessary:

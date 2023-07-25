@@ -1,0 +1,1 @@
+When given the instruction ‘cleared for immediate takeoff’, the pilot is expected to act as follows:

@@ -1,0 +1,1 @@
+The nominal response delay and nominal acceleration constitute the “standard pilot response” which is implicit in the collision avoidance algorithms: Note: The value of g (the acceleration due to gravity) is taken as 9.8 m/s2 as per the ICAO standard atmosphere model.

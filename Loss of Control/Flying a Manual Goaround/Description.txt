@@ -1,0 +1,1 @@
+Flying a Go-Around places special demands on the pilots, especially when the Go-Around is unexpected. This article deals with the underlying technique for flying a manual Go-Around.

@@ -1,0 +1,1 @@
+Rudder blanking is a particular risk to aircraft with rear mounted engines and "T" tails, where the activation of thrust reversers deflects air forcefully forwards of the engines to create reverse thrust. The exhaust from the engines, deflected in this way, disrupts the airflow upstream of the rudder.

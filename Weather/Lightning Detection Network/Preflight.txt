@@ -1,0 +1,1 @@
+Meteorological services will utilise data from LDN where available and indicate in both Observations (METAR) and forecasts (Area and TAF) whether in-cloud (LTGIC) or cloud to ground (LTG) lightning has been detected or is expected. Such information, together with data on Cumulonimbus (Cb) formation and Turbulence will allow safe route planning.

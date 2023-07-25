@@ -1,0 +1,1 @@
+Pay particular attention to the movement of the temperature and dew point at the destination and alternates - fog will form when the temperature and dew point are the same.

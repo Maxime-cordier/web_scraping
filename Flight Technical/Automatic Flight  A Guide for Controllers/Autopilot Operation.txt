@@ -1,0 +1,1 @@
+Large aircraft are typically equipped with an Autopilot Flight Director System (AFDS) which includes an auto-thrust system, referred to as an auto throttle. The aircraft can usually be operated in two basic system states which are covered below: These are covered below:

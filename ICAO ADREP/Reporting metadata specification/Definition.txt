@@ -1,0 +1,1 @@
+The reporting metadata specification is the list of mandatory fields which have to be provided to ICAO in the context of accident data reporting (ADREP). Metadata is data about accident data, allowing classification and categorisation for safety analysis purposes.

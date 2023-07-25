@@ -1,0 +1,1 @@
+Security management is essential to meet primary requirements both under normal and contingency operations. The need to use fallback facilities or to call on letters of agreement make it imperative that service providers consider the achieved level of security during all phases of the contingency lifecycle. Air Traffic Management (ATM) Security covers 2 major areas:

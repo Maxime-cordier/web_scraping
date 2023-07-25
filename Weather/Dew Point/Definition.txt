@@ -1,0 +1,1 @@
+The Dew Point is the air temperature at which a sample of air would reach 100% humidity based upon its current degree of saturation.

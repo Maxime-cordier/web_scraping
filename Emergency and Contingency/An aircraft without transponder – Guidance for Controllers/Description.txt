@@ -1,0 +1,1 @@
+This article describes the best practices to be used by air traffic controllers to maximize the chance that an aircraft without transponder is detected as soon as possible and to mitigate its impact on the provision of air traffic service.

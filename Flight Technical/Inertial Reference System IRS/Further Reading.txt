@@ -1,0 +1,1 @@
+It is recommended that, to understand the design and function of a specific INS, that the manufacturer's operating manual and flight manual are referred to; and, that for operational use the Air Operator's Operations Manual is referred to.

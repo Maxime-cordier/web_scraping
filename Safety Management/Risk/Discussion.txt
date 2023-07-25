@@ -1,0 +1,1 @@
+Developed by Palisade. @RISK evolved from PRISM (this is other than the PRISM elsewhere in this database), released by Palisade in 1984, which also allowed users to quantify risk using Monte Carlo simulation.

@@ -1,0 +1,1 @@
+IATA maintains a taxonomy for flight phases. The terms used inside that taxonomy can be mapped to the terms of the ADREP flight phase taxonomy. Multiple categories of one taxonomy sometimes match one category of the other taxonomy, but still allow comparison. The ADREP term maneuvering is unmatched as this mostly concerns non-commercial flights.

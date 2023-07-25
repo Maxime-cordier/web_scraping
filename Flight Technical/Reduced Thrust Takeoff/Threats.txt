@@ -1,0 +1,1 @@
+The principal risks associated with a reduced thrust takeoff are the potential of miscalculating either or both of the derate or assumed temperature values and the possiblity of entering incorrect values into the aircraft Flight Management System (FMS). Either of these errors could result in the engines producing insufficient thrust to safely execute the takeoff.

@@ -1,0 +1,1 @@
+CHIRP expects to receive what may be described as ‘near miss’ incident and hazard reports that have not progressed to the stage at which they become ‘reportable occurrences and accidents’. After reports have been disidentified, CHIRP is expected to:

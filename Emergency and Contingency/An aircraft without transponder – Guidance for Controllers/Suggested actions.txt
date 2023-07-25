@@ -1,0 +1,1 @@
+The advice given in this section is derived from experience, best practices and common sense. It is not intended to replace or supersede local instructions and procedures. The following actions usually help the controller to adequately handle a situation where an aircraft is experiencing a transponder failure:

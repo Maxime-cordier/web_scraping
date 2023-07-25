@@ -1,0 +1,1 @@
+This article describes a particular type of human error - the wrong ATC clearance. This is a situation where an inappropriate or incorrect ATC clearance was issued and does not cover all controller errors, e.g. poor coordination, poor hearback, etc. An ATC clearance error can occur due to:

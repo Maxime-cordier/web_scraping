@@ -1,0 +1,1 @@
+The figure above provides an example of the MCP/FCU in a Boeing 737 (top). In this case VNAV and LNAV have been selected as active modes. The SFL is selected in the ‘Altitude’ window, and is down-linked to the Air Traffic Controller via the Mode S link.
