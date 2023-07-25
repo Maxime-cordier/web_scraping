@@ -9,9 +9,11 @@ def main():
     elements = soup.find_all("div", class_="term-name")
 
     num_files = 0
+    size_all_files = 0
 
     for element in elements:
         URL_element = URL + element.find("a")["href"]
+        print("PARSING: "+URL_element)
         webSite_element = requests.get(URL_element)
         soup_element = BeautifulSoup(webSite_element.content, "html.parser")
 
@@ -106,9 +108,19 @@ def main():
                     with open(main_directory_name +"/"+ directory_name + filename, 'w', encoding='utf-8') as file:
                         file.write(file_content)
                         num_files = num_files+1
+                        size_all_files = size_all_files + os.path.getsize(main_directory_name +"/"+ directory_name + filename)
         
     print("Generated files: "+str(num_files))
-      
+    
+    # print size of all files in bytes if size is < 1MB or in MB if size is > 1MB or in GB if size is > 1GB
+    if size_all_files < 1000000:
+        print("Size of all files: "+str(size_all_files)+" bytes")
+    elif size_all_files > 1000000 and size_all_files < 1000000000:
+        print("Size of all files: "+str(round(size_all_files/1000000, 2))+" MB")
+    elif size_all_files > 1000000000:
+        print("Size of all files: "+str(round(size_all_files/1000000000, 2))+" GB")
+
+
 # run main
 if __name__ == "__main__":
     main()
