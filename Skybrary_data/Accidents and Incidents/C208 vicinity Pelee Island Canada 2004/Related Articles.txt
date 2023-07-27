@@ -1,0 +1,1 @@
+HF - Human Factors, Fatigue;. WX - In-Flight Icing; Freezing Rain;. GND - Aircraft Ground De/Anti-Icing, De/Anti-Icing Code, Holdover Time (HOT);. LOC - Loss of Control, Stall;.

@@ -1,0 +1,1 @@
+speed bugs were absent because the V speeds were not present in the FMC. It was noted that the investigated event shows that automatic calls may not always work as the flight crew expect and they should be ready to respond appropriately. The Final Report of the Investigation was published on 10 September 2020.

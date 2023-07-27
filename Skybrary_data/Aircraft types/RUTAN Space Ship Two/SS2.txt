@@ -1,0 +1,1 @@
+Sub-orbital 'rocket' plane [N339SS]. Wing span (metric): 8.30 m. Length (metric): 18.30 m. Height (metric): 5.50 m. Powerplant: 1 x RocketMotorTwo liquid/solid hybrid rocket engine. 1 x RocketMotorTwo liquid/solid hybrid rocket engine

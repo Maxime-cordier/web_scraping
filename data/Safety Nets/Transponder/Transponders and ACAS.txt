@@ -1,1 +1,0 @@
-Airborne Collision Avoidance System (ACAS) operation requires that both aircraft - the interrogator and the target - are equipped with operating transponders. An aircraft equipped with ACAS will receive the following information depending on the type of transponder with which the target aircraft is equipped: Above FL 155: Will not show the target

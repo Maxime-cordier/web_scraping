@@ -1,0 +1,1 @@
+The (Stuttgart Airport Operator) shall implement actions, enabling the visibility of the traffic control over the whole asset. (04/2006). The Final Report was published September 2010: AX002-0/05

@@ -1,0 +1,1 @@
+now takes into account the APM degraded performance alert so that if this is active, the high bank (30°) speed threshold will increase to the applicable manoeuvring speed in icing conditions plus 20 knots instead of plus 10 knots.. The Final Report was published on 9 September 2020. No Safety Recommendations were made.

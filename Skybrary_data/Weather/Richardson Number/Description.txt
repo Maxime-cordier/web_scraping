@@ -1,0 +1,1 @@
+The Richardson number is used as a rough measure of expected air turbulence. A lower value indicates a higher degree of turbulence. Values in the range 10 to 0.1 are typical, with values below unity indicating significant turbulence.
