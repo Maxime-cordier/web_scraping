@@ -1,1 +1,0 @@
-The gyromagnetic compass is a horizontal gyro slaved to magnetic north by a magnetic field detector (flux valve) usually located in the wing tips of the aircraft away from metal structure. The short term accuracy of the gyro combined with the long term accuracy of the magnetic compass provides a stable and accurate heading reference.

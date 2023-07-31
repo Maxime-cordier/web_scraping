@@ -1,1 +1,0 @@
-“The National Transportation Safety Board determines the probable cause(s) of this incident as follows. A short circuit in the primary (non-rechargeable) battery, most likely due to it being recharged. This internal short led to thermal runaway, battery failure, and an explosion.”

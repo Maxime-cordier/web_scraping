@@ -1,1 +1,0 @@
-The following factors (or a combination of them) can contribute to wrong identification: Callsign similarity. This can easily lead to callsign confusion.. Controller workload. Interruption or distraction. Complacency. Wrong correlation. Duplicated SSR code. Expectation bias.

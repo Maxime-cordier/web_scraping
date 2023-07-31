@@ -1,1 +1,0 @@
-This Checklist is intended to enable prompt identification of the sources of possible operational risks so as to allow the consideration of any measures for their mitigation. Content assumes the ‘worst case’ scenario. Accordingly, it will sometimes be the case that suggested ‘information acquisition’ will be deemed unnecessary for a particular assessment to be sufficient.

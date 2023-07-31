@@ -1,1 +1,0 @@
-The Joint Authorities Technical Review (JATR) - Boeing 737 MAX Flight Control System. B38M, en-route, northeast of Jakarta Indonesia, 2018. Angle of Attack (AOA). Aerodynamic Stall Awareness and Avoidance. Fly-By-Wire. Flight Management System.

@@ -1,1 +1,0 @@
-Nimbostratus is a Mid or Low level, rain bearing layer cloud.

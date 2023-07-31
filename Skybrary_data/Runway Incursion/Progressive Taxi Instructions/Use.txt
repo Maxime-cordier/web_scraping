@@ -1,1 +1,0 @@
-Progressive taxi instructions are issued on a step-by-step basis and are used: When requested by the pilot (e.g. due to unfamiliarity with the aerodrome).. When deemed necessary by the air traffic controller (e.g. due to construction works, closed taxiways, etc.).. In accordance with local instructions (e.g. during reduced visibility if so prescribed by the relevant manual)..

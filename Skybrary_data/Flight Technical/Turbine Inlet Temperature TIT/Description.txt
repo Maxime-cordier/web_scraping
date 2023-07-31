@@ -1,1 +1,0 @@
-Turbine Inlet Temperature (TIT) is the temperature of the combustion chamber exhaust gases as they enter the turbine unit. The gas temperature is measured by a number of thermocouples mounted in the exhaust stream and is presented on a flight deck gauge in either degrees Fahrenheit or degrees Celcius.

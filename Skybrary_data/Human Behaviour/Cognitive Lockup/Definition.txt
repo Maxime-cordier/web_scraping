@@ -1,1 +1,0 @@
-The tendency of operators to deal with disturbances sequentially [Moray and Rotenberg (1989)] As a result of cognitive lockup, pilots are inclined to focus on the current task and are reluctant to switch to another task, even if that task has a higher priority.

@@ -1,1 +1,0 @@
-FltMaster provides 3-D animation and flight data replay using a suite of visualisation tools able to accept data from simulations, manned-motion simulators, and recorded flight data in virtually any format. FltMaster was developed by Sight, Sound & Motion.

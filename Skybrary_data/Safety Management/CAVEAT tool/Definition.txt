@@ -1,1 +1,0 @@
-Collision Avoidance Validation and Evaluation Tool

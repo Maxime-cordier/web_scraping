@@ -1,1 +1,0 @@
-was the processing of internally corrupted data in the active cabin pressure controller which had used a landing field elevation of over 10,000 feet. It noted that Airbus is developing a modified controller that will prevent erroneous data calculations occurring.

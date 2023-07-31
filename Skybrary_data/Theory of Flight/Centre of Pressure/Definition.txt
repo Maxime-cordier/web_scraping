@@ -1,1 +1,0 @@
-The Centre of Pressure is the average location of all of the pressure acting upon a body moving through a fluid.

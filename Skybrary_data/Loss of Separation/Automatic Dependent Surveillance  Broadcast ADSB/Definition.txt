@@ -1,1 +1,0 @@
-A means by which aircraft, aerodrome vehicles and other objects can automatically transmit and/or receive data such as identification, position and additional data, as appropriate, in a broadcast mode via a data link. Source: ICAO Doc 4444 PANS-ATM

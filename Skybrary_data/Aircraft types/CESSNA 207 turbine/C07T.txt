@@ -1,1 +1,0 @@
-A C207 modified with a 418 shp (312 kW) Allison 250-C20S turbine engine. Wing span (metric): 10.92 m. Length (metric): 8.62 m. Height (metric): 2.92 m. Powerplant: 1 x 418 shp (312 kW) Allison 250-C20S turbine engine.. Engine Model(s): Allison 250. 1 x 418 shp (312 kW) Allison 250-C20S turbine engine.

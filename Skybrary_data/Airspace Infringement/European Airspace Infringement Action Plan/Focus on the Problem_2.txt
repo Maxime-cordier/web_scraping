@@ -1,1 +1,0 @@
-and UAs will be treated as out of scope.

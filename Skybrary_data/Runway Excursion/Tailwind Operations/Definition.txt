@@ -1,1 +1,0 @@
-Tailwind Operations in fixed wing aircraft are considered to be takeoffs or landings with a performance diminishing wind component – that is, a tailwind.

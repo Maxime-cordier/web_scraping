@@ -1,1 +1,0 @@
-The U.S. Federal Aviation Administration (FAA) defines beyond visual line of sight (BVLOS) as a broad spread of existing and potential uncrewed aircraft system (UAS) operations whose only common factor is the uncrewed aircraft (UA) being out of the direct visual line of sight of the remote pilot.

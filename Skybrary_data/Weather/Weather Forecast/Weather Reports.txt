@@ -1,1 +1,0 @@
-Weather reports (METARs) are reports of actual weather conditions recorded at specific aerodromes at specified times.

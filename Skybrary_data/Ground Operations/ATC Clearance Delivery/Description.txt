@@ -1,1 +1,0 @@
-The issue of ATC Departure / En Route Clearance for a flight (as distinct from a take off clearance), in particular for an IFR flight.

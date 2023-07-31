@@ -1,1 +1,0 @@
-Airborne Collision Avoidance System (ACAS). ACAS Resolution and Traffic Advisories. TCAS alert prevention (TCAP).

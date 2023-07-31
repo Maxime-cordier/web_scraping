@@ -1,1 +1,0 @@
-These are tools monitoring for compliance between planned and executed flight trajectory and providing alerts in case of discrepancy. Such alerts may include: lateral trajectory compliance alerts. vertical trajectory compliance alerts. cleared level deviation alerts. level bust alerts. alerts about non-achievement of coordinated sector exit/entry conditions.

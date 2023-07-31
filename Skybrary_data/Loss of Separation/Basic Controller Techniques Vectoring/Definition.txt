@@ -1,1 +1,0 @@
-Provision of navigational guidance to aircraft in the form of specific headings, based on the use of an ATS surveillance system. [ICAO Doc 4444]

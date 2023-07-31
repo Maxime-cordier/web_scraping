@@ -1,1 +1,0 @@
-Visibility and/or RVR are reported in routine and special reports using abbreviated plain language, or the Meteorological Terminal Air Report (METAR) or SPECI code; at aerodromes, visibility and RVR is also reported in abbreviated plain language in Automated Terminal Information Service (ATIS) transmissions.

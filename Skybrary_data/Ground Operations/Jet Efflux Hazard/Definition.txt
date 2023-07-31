@@ -1,1 +1,0 @@
-Jet Efflux Hazard is defined as hazards associated with the blast force generated behind a jet engine. The hazard exists whenever a jet engine is running but is increased and extends over a greater area and at greater distance behind the engine, at high engine power settings when taxiing, before and during take-off, and during engine maintenance activity.

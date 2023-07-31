@@ -1,1 +1,0 @@
-Loss of Control. Stall - Recovery techniques assume that the airplane is not stalled. If the airplane is stalled, it is imperative to first recover from the stalled condition before initiating any upset recovery technique.. Flight Instrument Presentation of Aircraft Attitude. Bank Angle Awareness. Crew Resource Management (CRM). Startle Effect.

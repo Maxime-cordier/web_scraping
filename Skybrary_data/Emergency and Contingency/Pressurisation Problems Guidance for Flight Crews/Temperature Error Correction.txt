@@ -1,1 +1,0 @@
-Check whether you need to apply Altimeter Temperature Error Correction to your calculated safety altitude.

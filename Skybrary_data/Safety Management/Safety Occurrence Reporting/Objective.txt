@@ -1,1 +1,0 @@
-Safety occurrence reporting aims to improve safety of aircraft operations by timely detection of operational hazards and system deficiencies. It plays an essential role in accident prevention enabling the identification of appropriate remedial actions by prompt analysis of safety data and by the exchange of safety information.

@@ -1,1 +1,0 @@
-Pilots should maintain an awareness of Vne taking into account the expected altitudes in flight, potential turbulence, and the weight of the aircraft. Warning: Sustained flight in retreating blade stall conditions may cause reduction in the fatigue life of components through vibrations.

@@ -1,1 +1,0 @@
-A set of numerical expressions used to define levels of safety. (EUROCONTROL ESARR 3)

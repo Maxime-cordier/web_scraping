@@ -1,1 +1,0 @@
-Terrain Avoidance and Warning System (TAWS) Ground Proximity Warning System (GPWS) Enhanced Ground Proximity WarningSystem (EGPWS)

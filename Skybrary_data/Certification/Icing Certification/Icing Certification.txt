@@ -1,1 +1,0 @@
-Aircraft certification for flight in icing does not necessarily imply fitness for or approval of continuous operations in icing conditions. Oftentimes, the certification may be intended to allow for just a temporary period of operation in icing conditions during which the horizontal or vertical extent of the icing is vacated.

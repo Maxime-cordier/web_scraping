@@ -1,1 +1,0 @@
-The horizon (in nautical miles) will be approximately the square root of the height in feet: At 10,000ft, the horizon at at approximately 100nm. At 20,000ft, the horizon at at approximately 140nm. At 30,000ft, the horizon at at approximately 170nm.

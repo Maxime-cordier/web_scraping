@@ -1,1 +1,0 @@
-FutureFlight Central is a fully interactive control tower simulator. It is designed to allow virtual reality tests of new tower procedures, airport designs and technologies. Its design and development was a joint NASA and FAA supported project. NASA maintains and operates the simulator.

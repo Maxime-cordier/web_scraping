@@ -1,1 +1,0 @@
-Centralised national contingency facilities provide fallback services at a single site for many/all ATM operations. These national facilities may or may not be co-located with other ANSP centres.

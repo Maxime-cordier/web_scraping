@@ -1,1 +1,0 @@
-Automatic dependent surveillance — contract (ADS-C): means by which the terms of an ADS-C agreement will be exchanged between the ground system and the aircraft, via a data link, specifying under what conditions ADS-C reports would be initiated, and what data would be contained in the reports. (ICAO)

@@ -1,1 +1,0 @@
-MCAS, or Maneuvering Characteristics Augmentation System, is a flight control law implemented on the 737 MAX to improve aircraft handling characteristics and decrease pitch-up tendency at elevated angles of attack.

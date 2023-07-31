@@ -1,1 +1,0 @@
-To prevent unintended moving of the Power Lever into the Beta-range, each Power Lever has protection and warning mechanisms. These may include a gate that the throttle has to be lifted through in order to get the throttle into the Beta range and/or a warning sound if the levers are lifted out of the flight range while the aircraft is airborne.

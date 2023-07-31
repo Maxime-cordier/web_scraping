@@ -1,1 +1,0 @@
-Equivalent airspeed (EAS) is defined as the speed at sea level, under ISA conditions, that would produce the same incompressible dynamic pressure that is produced at the true airspeed and the altitude at which the vehicle is flying.

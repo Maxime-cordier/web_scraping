@@ -1,1 +1,0 @@
-The objective of CFMU in contingency planning is to increase network resilience to failures in any ANSP.

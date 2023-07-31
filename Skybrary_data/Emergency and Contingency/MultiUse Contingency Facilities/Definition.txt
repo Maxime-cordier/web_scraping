@@ -1,1 +1,0 @@
-Multi-use contingency facilities provide fallback resources that normally are deployed to meet other ANS requirements but which can be converted to maintain services in the aftermath of a contingency event.

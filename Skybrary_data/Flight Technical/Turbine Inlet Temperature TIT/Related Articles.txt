@@ -1,1 +1,0 @@
-Exhaust Gas Temperature (EGT). Interstage Turbine Temperature (ITT).

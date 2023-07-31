@@ -1,1 +1,0 @@
-The major threat associated with a bleed air system is the potential risk of a leak resulting from loss of system integrity. A bleed air leak can lead to loss of system function, overheat or even fire. This topic is covered in detail in the article entitled Bleed Air Leaks.

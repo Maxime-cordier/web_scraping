@@ -1,1 +1,0 @@
-ECCAIRS 4.2.8 - Occurrence classes, 17 September 2010. Using “Positive” Human Factors Data (OGHFA BN). Accident Incident Reporting System. Mandatory Occurrence Reporting. CAST/ICAO Common Taxonomy Team.

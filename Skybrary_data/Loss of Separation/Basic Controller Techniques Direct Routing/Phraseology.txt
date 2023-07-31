@@ -1,1 +1,0 @@
-The controller may use several phrases to issue a direct routing clearance: CLEARED TO (point) DIRECT. CLEARED DIRECT (point). WHEN ABLE PROCEED DIRECT (point) (Note: In this case, the moment when the aircraft turns toward the specified point is chosen by the pilot). RESUME OWN NAVIGATION [DIRECT] (point) (Note: This phrase is used when vectoring is complete).

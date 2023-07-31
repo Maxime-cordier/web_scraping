@@ -1,1 +1,0 @@
-Full Flight Simulator practice of ditching by pilots is impossible because there is no data with which to meaningfully program the simulator. Training is limited to scenario-based discussion of both the process of ditching and, for all aircrew, the emergency evacuation of an aircraft which has landed on water.

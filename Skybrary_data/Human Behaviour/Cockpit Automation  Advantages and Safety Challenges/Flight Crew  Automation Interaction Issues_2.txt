@@ -1,1 +1,0 @@
-in case of automation failure;. When automation fails or disconnects, the tasks allocated to the pilots / flight crews may fall beyond their capabilities, individually and or as a team;. Flight crew may not be sufficiently informed of automation failures or malfunctions or of their effects..

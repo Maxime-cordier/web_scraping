@@ -1,1 +1,0 @@
-the only altitude information available on the ground comes from mode C, transmitted by transponders..

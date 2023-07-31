@@ -1,1 +1,0 @@
-ACAS Guide - Airborne Collision Avoidance, March 2022. Collision avoidance validation platform (EUROCONTROL website). CAFÉ evaluator.

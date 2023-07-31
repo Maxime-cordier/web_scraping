@@ -1,1 +1,0 @@
-Loss of separation “Blind Spot” events are typically characterised by the controller not detecting a conflict with the closest aircraft. Such events usually occur after an incorrect descent or climb clearance. Usually there is very little (or no) time to react to such an error and most of the conflicting clearances result in an incident.

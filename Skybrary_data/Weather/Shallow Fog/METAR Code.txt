@@ -1,1 +1,0 @@
-The METAR code for shallow fog is "MIFG" - MI (descriptor) = shallow, FG (weather phenomena) = fog.

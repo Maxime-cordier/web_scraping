@@ -1,1 +1,0 @@
-The occurrence of minimum range between own ACAS aircraft and the intruder. Range at CPA is the smallest range between the two aircraft and time at CPA is the time at which it occurs. Source: ICAO Doc 9863 Airborne Collision Avoidance System (ACAS) Manual

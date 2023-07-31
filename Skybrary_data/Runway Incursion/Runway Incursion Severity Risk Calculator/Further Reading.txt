@@ -1,1 +1,0 @@
-ICAO Doc 9870 App H - Runway Incursion Severity Classification (RISC) Calculator.

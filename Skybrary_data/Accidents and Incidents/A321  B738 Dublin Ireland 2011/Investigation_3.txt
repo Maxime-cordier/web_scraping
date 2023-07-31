@@ -1,1 +1,0 @@
-latter providing an audio as well as a visual alert when an aircraft or vehicle, whether transponder equipped or not, crosses an active (lit) stop bar - although no prior warning.

@@ -1,1 +1,0 @@
-^ PFD: Primary Flight Display. ^ ND: Navigation Display. ^ CDU: Control Display Unit. ^ EPR: Engine Pressure Ratio.

@@ -1,1 +1,0 @@
-The position of an occluded front on a surface weather analysis is often offset from the associated weather, which occurs at the TROWAL (short for TROugh of Warm Air ALoft), the projection on the Earth's surface of the wedge of warm air above the surface.

@@ -1,1 +1,0 @@
-The severity classification scheme specifies five qualitative frequency categories. It is recommended that each State initiate the development of quantitative boundaries, which would take into account national traffic volumes and specific operating conditions of the national ATM system (and related sub-systems). The qualitative frequencies are defined in Table below.

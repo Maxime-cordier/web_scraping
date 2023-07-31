@@ -1,1 +1,0 @@
-An aircraft Stall Warning System is that system which provides the pilot with advance warning of an impending stall.

@@ -1,1 +1,0 @@
-Remote Tower Service (RTS) is a system which allows aerodrome Air Traffic Control (ATC) or Flight Information Service (FIS) to be provided from a location other than the aerodrome whilst maintaining a level of operational safety which is equivalent to that achievable using a manned Tower at the aerodrome to oversee both air and ground movements.

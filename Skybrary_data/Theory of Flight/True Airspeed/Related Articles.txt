@@ -1,1 +1,0 @@
-Indicated Airspeed (IAS). Calibrated Airspeed (CAS). Equivalent Airspeed (EAS). Mach Number. High Altitude Flight Operations.

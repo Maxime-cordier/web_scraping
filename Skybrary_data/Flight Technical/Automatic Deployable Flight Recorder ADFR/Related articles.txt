@@ -1,1 +1,0 @@
-Flight Data Recorder (FDR). Cockpit Voice Recorder (CVR).

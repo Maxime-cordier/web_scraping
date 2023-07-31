@@ -1,1 +1,0 @@
-Reorganized ATC Mathematical Simulator

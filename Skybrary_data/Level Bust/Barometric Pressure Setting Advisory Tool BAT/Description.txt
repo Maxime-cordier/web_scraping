@@ -1,1 +1,0 @@
-Barometric Pressure Setting Advisory Tool (BAT) is a tool developed by air navigation service provider (ANSP) UK NATS to identify significant QNH setting errors based on downlinked Mode S Barometric Pressure Setting (BPS) data.

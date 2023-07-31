@@ -1,1 +1,0 @@
-Understanding the performance characteristics of the aircraft you fly is critical for safe operations under tailwind conditions. If the performance data is not available or the tailwind component exceeds the allowable limit, another runway must be used.

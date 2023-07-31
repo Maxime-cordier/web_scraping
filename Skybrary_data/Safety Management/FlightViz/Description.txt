@@ -1,1 +1,0 @@
-FlightViz facilitates analysts to visually recreate a flight -in three dimensions - using actual aircraft or simulator flight data. Developed by SimAuthor, Inc.

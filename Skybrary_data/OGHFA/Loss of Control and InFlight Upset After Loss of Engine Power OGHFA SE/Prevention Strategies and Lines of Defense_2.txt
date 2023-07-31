@@ -1,1 +1,0 @@
-use callouts effectively when needed..

@@ -1,1 +1,0 @@
-Interstage Turbine Temperature (ITT) is the temperature of the exhaust gases between the high pressure and the low pressure turbines. The gas temperature is measured by a number of thermocouples mounted in the exhaust stream and is presented on a flight deck gauge in either degrees Fahrenheit or degrees Celcius.

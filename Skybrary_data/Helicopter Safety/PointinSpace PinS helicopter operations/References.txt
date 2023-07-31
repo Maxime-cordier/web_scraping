@@ -1,1 +1,0 @@
-The procedure design criteria for a PinS approach and the detailed design requirements for a visual segment are established in the Procedures for Air Navigation Services — Aircraft Operations, (PANS-OPS, Doc 8168).. ICAO Annex 14 Volume II.

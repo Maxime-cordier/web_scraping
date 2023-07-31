@@ -1,1 +1,0 @@
-An ACAS RA might result in: Climb or descent without prior warning. Changes in vertical rates of climb/descent. Two or more aircraft involved. Only one aircraft in a conflict pair getting an ACAS RA. Late notification by pilots regarding RA, after aircraft begin climb or descent (in accordance with the principle aviate, navigate, communicate).

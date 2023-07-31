@@ -1,1 +1,0 @@
-^ Approximate descent rate required can be calculated from Groundspeed ÷ 2 x 10. E.g. 140kts = 700fpm and 100kts = 500fpm ..

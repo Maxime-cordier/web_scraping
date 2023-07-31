@@ -1,1 +1,0 @@
-Airborne Collision Avoidance System (ACAS). ACAS Regulation and Procedures. ACAS Resolution and Traffic Advisories. Assessment of Pilot Compliance with TCAS RA Using Radar Data. ATC Avoiding Instructions Opposite to TCAS RA. TCAS II version 7.1. ‘Climb’ RAs and Performance Limitations. TCAS - Always follow the RA (SKYclip). TCAS RA not followed (SKYclip).

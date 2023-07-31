@@ -1,1 +1,0 @@
-Data can be passed between an aircraft and a ground station using: Aircraft Communications, Addressing and Reporting System. CPDLC. Automatic Dependent Surveillance Broadcast (ADS-B). Automatic Dependent Surveillance - Contract (ADS-C). Mode S. Transponder.

@@ -1,1 +1,0 @@
-Aircraft Flight Analysis & Safety Explorer - Flight Data Monitoring Analysis and Visualisation Tool jointly developed by Airbus and Teledyne Controls.

@@ -1,1 +1,0 @@
-Flight level or altitude confusion occurs when a pilot is cleared to fly at a particular level and correctly acknowledges this clearance, yet levels at a different flight level or altitude.

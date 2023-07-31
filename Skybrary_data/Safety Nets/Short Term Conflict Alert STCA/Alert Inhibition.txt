@@ -1,1 +1,0 @@
-It may be necessary to inhibit alerts for predefined volumes of airspace (e.g. exercise areas) or for specific flights to suppress unnecessary alerts.

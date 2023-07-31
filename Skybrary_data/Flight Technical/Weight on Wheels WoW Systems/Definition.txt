@@ -1,1 +1,0 @@
-Weight on wheels (WoW) switches indicate whether the weight of an aircraft is resting on its wheels. This information reveals whether the aircraft is airborne or on the ground. Air/ground sensing prevents various systems from operating inappropriately on the ground or in flight. It also ensures systems are enabled or disabled as befits the aircraft’s situation.

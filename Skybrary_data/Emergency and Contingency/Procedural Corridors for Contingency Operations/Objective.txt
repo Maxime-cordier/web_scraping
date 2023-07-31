@@ -1,1 +1,0 @@
-Contingency Flight Level Allocation Schemes (cFLAS) cannot, typically, be extended to arrivals and departures at airports given the inherent complexity in these operations. However, procedural corridors can be used to provide limited, simplified access to airports.

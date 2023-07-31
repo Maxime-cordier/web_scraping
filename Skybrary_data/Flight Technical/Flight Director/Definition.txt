@@ -1,1 +1,0 @@
-A flight director is a guidance aid that is overlaid on the Attitude indicator and shows the pilot of an aircraft the attitude required to follow a certain trajectory.

@@ -1,1 +1,0 @@
-AIRS is part of the AIRBUS Flight Operations Monitoring package.

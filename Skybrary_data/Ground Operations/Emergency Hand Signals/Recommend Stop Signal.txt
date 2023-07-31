@@ -1,1 +1,0 @@
-Used to get pilots to immediately stop any activity that is in progress; this could be aircraft movement or even evacuation, if an evacuation is already in progress. Crossed arms, at the wrists, above and in front of the head.

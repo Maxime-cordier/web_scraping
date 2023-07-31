@@ -1,1 +1,0 @@
-Tactical Controller Tool (TCT). Medium Term Conflict Detection (MTCD). Short Term Conflict Alert (STCA).

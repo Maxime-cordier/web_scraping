@@ -1,1 +1,0 @@
-The ADREP Flight Phase taxonomy is a set of terms used by ICAO to categorize the operational phase during which an aircraft accident and incident happened and to allow safety trend analysis on occurrences by this category. The ADREP Flight Phase taxonomy is part of the ICAO accident data reporting system (ADREP).

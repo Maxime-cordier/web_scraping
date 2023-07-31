@@ -1,1 +1,0 @@
-An Autonomous Runway Incursion Warning System (ARIWS) is a system which provides autonomous detection of a potential incursion or of the occupancy of an active runway and a direct warning to a flight crew or a vehicle operator (ICAO).

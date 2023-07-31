@@ -1,1 +1,0 @@
-Cockpit Voice Recorder (CVR) - a device used to record the audio environment in the flight deck for accidents and incident investigation purposes. The CVR records and stores the audio signals of the microphones and earphones of the pilots’ headsets and of an area microphone installed in the cockpit. Figure 1: Cockpit Voice Recorder

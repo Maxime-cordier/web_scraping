@@ -1,1 +1,0 @@
-Voice/audio communications between an aircraft and the ground are traditionally accomplished using radio telephony, broadcasting and receiving on: UHF. VHF. HF. Alternatively voice communications can be conducted using SATCOM, including VOIP through the Internet. For further information, see the separate article "Air-Ground Voice Communications"

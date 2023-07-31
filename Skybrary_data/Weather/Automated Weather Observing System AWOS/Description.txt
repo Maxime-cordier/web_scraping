@@ -1,1 +1,0 @@
-Automated Weather Observing System (AWOS) is a fully configurable airport weather system that provides continuous, real time information and reports on airport weather conditions. AWOS stations are mostly operated, maintained and controlled by aviation service providers.

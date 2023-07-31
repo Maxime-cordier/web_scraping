@@ -1,1 +1,0 @@
-Correlated tracks. Tracks which have been correlated with a flight plan (sometimes this term applies only to tracks for which the Mode A code has been correlated with a call-sign in the code/call-sign list i.e. flight plan association). Source: ICAO Doc 9684 - Manual on the Secondary Surveillance Radar (SSR) Systems

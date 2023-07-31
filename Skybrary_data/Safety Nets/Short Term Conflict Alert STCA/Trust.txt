@@ -1,1 +1,0 @@
-The operational use of STCA will depend on the controller’s trust in the system. Trust is a result of many factors, such as reliability and transparency. Neither mistrust nor complacency are desirable and training and experience are needed to build trust at the appropriate level. An excessive number of false alarms can reduce the ATCO's confidence in the STCA.

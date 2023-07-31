@@ -1,1 +1,0 @@
-The Lapse Rate is the rate at which temperature changes with height in the Atmosphere. Lapse rate nomenclature is inversely related to the change itself: if the lapse rate is positive, the temperature decreases with height; conversely if negative, the temperature increases with height.

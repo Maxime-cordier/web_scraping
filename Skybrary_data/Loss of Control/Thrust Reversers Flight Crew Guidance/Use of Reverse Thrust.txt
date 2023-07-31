@@ -1,1 +1,0 @@
-Use of Reverse Thrust on low wing aircraft with mounted engines should be limited to the time when the aircraft is on an active runway. Use of even idle reverse during runway exit and initial taxi in can result in engine damage due to ingestion of FOD or contamination of the air conditioning system with excess surface de-icing chemicals sometimes found on taxiways.

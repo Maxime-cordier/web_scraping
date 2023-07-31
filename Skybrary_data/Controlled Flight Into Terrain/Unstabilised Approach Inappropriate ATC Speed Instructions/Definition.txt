@@ -1,1 +1,0 @@
-ATC speed control instructions that are incompatible with the distance to go and required vertical profile below FL100, taking account of any significant prevailing wind velocity throughout the height band.

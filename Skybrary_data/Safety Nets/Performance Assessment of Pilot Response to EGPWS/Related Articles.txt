@@ -1,1 +1,0 @@
-Terrain Avoidance and Warning System (TAWS). Controlled Flight Into Terrain (CFIT). Response to a "PULL UP" Warning.

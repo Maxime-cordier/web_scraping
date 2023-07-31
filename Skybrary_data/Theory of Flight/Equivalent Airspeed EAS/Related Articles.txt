@@ -1,1 +1,0 @@
-International Standard Atmosphere (ISA). True Airspeed. Indicated Airspeed (IAS). Calibrated Airspeed (CAS). Airspeed Conversion.

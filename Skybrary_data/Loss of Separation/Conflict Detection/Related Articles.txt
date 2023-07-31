@@ -1,1 +1,0 @@
-Conflict Solving. Conflict Detection with Adjacent Sectors. Blind Spots – Inefficient conflict detection with closest aircraft. Medium Term Conflict Detection (MTCD). Probe (What-if) Controller Tool. Tactical Controller Tool (TCT). Short Term Conflict Alert (STCA). Vectoring Geometry.

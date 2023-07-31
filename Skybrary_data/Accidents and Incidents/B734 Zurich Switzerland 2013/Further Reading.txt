@@ -1,1 +1,0 @@
-How to design a simple, safe and efficient taxiway designation system, G. le Bris and M. Kintzler, Hindsight Magazine (vol 21) article, EUROCONTROL, July 2015.

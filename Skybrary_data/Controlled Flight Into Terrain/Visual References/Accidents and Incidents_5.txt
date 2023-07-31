@@ -1,1 +1,0 @@
-cleared altitude towards terrain in IMC at night followed. An EGPWS PULL UP Warning and ATC MSAW activation resulted before the aircraft was recovered back to 3500 feet and the remainder of the flight was uneventful.

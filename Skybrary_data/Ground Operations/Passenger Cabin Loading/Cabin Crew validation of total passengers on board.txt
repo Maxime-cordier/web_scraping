@@ -1,1 +1,0 @@
-Routine ‘head counts’ of boarded passengers by cabin crew before every departure will, if reported to the aircraft commander prior to their acceptance of the final load sheet, ensure that a flight always departs with the same number of passengers on board as has been recorded on the load and trim sheet.

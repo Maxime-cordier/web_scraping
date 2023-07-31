@@ -1,1 +1,0 @@
-when issuing Type 1a UAV operations authorisations, require that all applicable safety measures identified in the Flight Manual are selected ‘on’ for each flight. [BE-2017-0006]. The Final Report of the Investigation was issued on 17 March 2017.

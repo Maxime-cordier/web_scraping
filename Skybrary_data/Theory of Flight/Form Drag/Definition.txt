@@ -1,1 +1,0 @@
-Form Drag, also known as Pressure Drag or Profile Drag, is the drag caused by the separation of the boundary layer from a surface and the wake created by that separation. It is primarily dependent upon the shape of the object.

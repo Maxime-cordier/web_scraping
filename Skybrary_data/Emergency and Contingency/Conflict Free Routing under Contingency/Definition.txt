@@ -1,1 +1,0 @@
-Conflict Free Routings provide a simplified route structure that helps to minimise the number of crossings on air traffic services (ATS) routes.

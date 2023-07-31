@@ -1,1 +1,0 @@
-The word “now” is used to indicate that the execution of the instruction is expected to commence at once in order to: Resolve or prevent a potential conflict. Increase the precision of a manoeuvre (e.g. when the controller provides assistance in case of compass failure).

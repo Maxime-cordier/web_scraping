@@ -1,1 +1,0 @@
-Implementation of ESARR 2 by service providers and States will enable: Assessment of safety performance against performance targets and related trends over time.. Identification of key risk area to act upon.. Identification of ATM system contribution to all types of safety occurrences.. Identification of risk reduction strategies, approaches and measures..

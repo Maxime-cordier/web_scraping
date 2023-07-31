@@ -1,1 +1,0 @@
-In aerodynamics, the critical Mach Number (Mcr or Mcrit) of an aircraft is the lowest Mach number at which the airflow over any part of the aircraft reaches the speed of sound.

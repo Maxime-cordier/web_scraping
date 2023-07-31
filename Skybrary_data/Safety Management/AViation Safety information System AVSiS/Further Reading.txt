@@ -1,1 +1,0 @@
-GAIN - Methods & Tools for Airline Flight Safety Analysis - in which AViation Safety information System (AVSiS) is referred to as one of the big three Safety Event and Reporting Tools, along with BASIS (now Sentinel) and Aviation Quality Database (AQD)..

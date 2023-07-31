@@ -1,1 +1,0 @@
-As well as raw acceleration data in all planes and axes, typical Inertial outputs fed to other aircraft avionics and systems include, but are not limited to: Pitch and Roll. True and Magnetic Heading. True Air Speed (TAS) and Ground Speed (G/S). Latitude, Longitude and (inertial) Altitude. Wind Speed and Direction, and Drift Angle. Pitch, Roll and Yaw. Vertical Speed and Rate.

@@ -1,1 +1,0 @@
-The Maintenance Error Decision Aid (MEDA) is a structured process used to investigate events caused by maintenance technician and/or inspector performance.

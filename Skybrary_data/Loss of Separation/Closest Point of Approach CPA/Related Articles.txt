@@ -1,1 +1,0 @@
-Loss of Separation. Basic Controller Techniques: Vectoring. Vectoring Geometry. Tactical Controller Tool (TCT). Medium Term Conflict Detection (MTCD).

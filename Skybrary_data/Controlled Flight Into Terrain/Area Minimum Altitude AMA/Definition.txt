@@ -1,1 +1,0 @@
-The minimum altitude to be used under instrument meteorological conditions (IMC), that provides a minimum obstacle clearance within a specified area, normally formed by parallels and meridians. Source: ICAO Doc 8168 PANS-OPS, Vol. 1

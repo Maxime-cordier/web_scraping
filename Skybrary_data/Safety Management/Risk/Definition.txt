@@ -1,1 +1,0 @@
-@RISK uses the techniques of Monte Carlo Simulation for Bias and Uncertainty assessment in a spreadsheet-based model.

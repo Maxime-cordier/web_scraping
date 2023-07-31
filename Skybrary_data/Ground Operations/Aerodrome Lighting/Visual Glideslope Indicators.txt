@@ -1,1 +1,0 @@
-Visual glideslope indicators provide the pilot with glidepath information that can be used for day or night approaches. By maintaining the proper glidepath as indicated by the system, a pilot should have adequate obstacle clearance and should touch down within a specified portion of the runway: Visual Approach Slope Indicator (VASI). Precision Approach Path Indicator (PAPI).

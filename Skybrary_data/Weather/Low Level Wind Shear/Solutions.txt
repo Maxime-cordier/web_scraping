@@ -1,1 +1,0 @@
-Improved forecasting of wind shear;. Improved training in wind shear recognition, avoidance and recovery;. More widespread use of ground and airborne wind shear warning systems..

@@ -1,1 +1,0 @@
-number of serious aircraft incidents per 100 000 flight hours, pass/fail rate of air traffic controllers at licence validation checks (ANSPs), achieved mean time between failure (MTBF) for safety critical system components etc.

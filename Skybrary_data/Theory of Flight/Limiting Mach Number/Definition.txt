@@ -1,1 +1,0 @@
-The maximum mach number at which an aircraft may be operated.

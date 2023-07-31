@@ -1,1 +1,0 @@
-A service provided to notify appropriate organizations regarding aircraft in need of search and rescue aid, and assist such organizations as required. Source: ICAO Annex 11 - Air Traffic Services

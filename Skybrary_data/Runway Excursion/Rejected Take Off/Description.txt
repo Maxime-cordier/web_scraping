@@ -1,1 +1,0 @@
-The actions taken when it is decided to abandon the takeoff and stop an aircraft during the takeoff roll.

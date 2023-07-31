@@ -1,1 +1,0 @@
-The ADREP operation type taxonomy is a set of terms used by ICAO to categorize an occurrence by the type of flight which was conducted and to allow safety trend analysis on these categories. The ADREP operation type taxonomy is part of the ICAO accident data reporting system (ADREP).

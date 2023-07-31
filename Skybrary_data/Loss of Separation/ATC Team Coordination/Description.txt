@@ -1,1 +1,0 @@
-This article describes the specifics of coordination procedures within an ATC unit. The article does not cover the coordination procedures: within a planner-executive team;. between different ATC units (described in ATC Unit Coordination);. between ground and tower operating at the same airfield (described in GND-TWR Co-ordination)..

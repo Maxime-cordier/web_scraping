@@ -1,1 +1,0 @@
-The Runway Overrun Prevention System (ROPS) is made up of two sub-functions: runway overrun warning (ROW) and runway overrun protection (ROP). The ROW function generates alerts which incite the flight crew to perform a Go-Around whereas the ROP function generates alerts which incite the flight crew to apply available deceleration means.

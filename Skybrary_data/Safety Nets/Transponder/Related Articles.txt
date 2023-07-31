@@ -1,1 +1,0 @@
-Mode S. Airborne Collision Avoidance System (ACAS). Automatic Dependent Surveillance Broadcast (ADS-B). Operation without a Transponder or with a Dysfunctional Transponder.

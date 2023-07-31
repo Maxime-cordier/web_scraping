@@ -1,1 +1,0 @@
-The ambient temperature measured outside an aircraft is known as the Outside Air Temperature (OAT) or Static Air Temperature (SAT). The sensor which detects OAT must be carefully sited to ensure that airflow over it does not affect the indicated temperature.

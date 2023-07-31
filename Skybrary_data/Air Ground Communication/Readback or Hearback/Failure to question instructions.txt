@@ -1,1 +1,0 @@
-Failing to question an instruction can cause a crew to accept an altitude clearance below the minimum safe altitude or a heading that places the aircraft on collision course with another.

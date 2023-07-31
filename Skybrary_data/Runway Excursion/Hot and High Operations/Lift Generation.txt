@@ -1,1 +1,0 @@
-In general terms, wing efficiency (lift generation) is a function of density altitude with less lift being produced at higher altitudes. This can result in a reduced maximum takeoff weight as well as a reduction in net climb gradient.

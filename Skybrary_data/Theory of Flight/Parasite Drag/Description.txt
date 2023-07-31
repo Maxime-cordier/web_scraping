@@ -1,1 +1,0 @@
-Parasite Drag is caused by moving a solid object through a fluid medium. In aerodynamics, the fluid medium concerned is the atmosphere. The principal components of Parasite Drag are Form Drag, Friction Drag and Interference Drag.

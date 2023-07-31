@@ -1,1 +1,0 @@
-Mode S is a Secondary Surveillance Radar process that allows selective interrogation of aircraft according to the unique 24-bit address assigned to each aircraft. Recent developments have enhanced the value of Mode S by introducing Mode S EHS (Enhanced Surveillance).

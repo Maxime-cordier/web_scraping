@@ -1,1 +1,0 @@
-ACAS RA not Followed, a study by the EUROCONTROL SISG, 2017. The Assessment of Pilot Compliance with TCAS RAs, TCAS Mode Selection and Serviceability Using ATC Radar Data, EUROCONTROL, 10 February 2022. TCAS pilot compliance assessment based on radar data - Presentation, EUROCONTROL, 21 Sept 2020.

@@ -1,1 +1,0 @@
-The Ellrod Index is designed to detect regions of Clear-Air-Turbulence (CAT) in the atmosphere. It is computed based on horizontal deformation of air parcels and vertical wind shear. Other methods of forecasting CAT rely on subjective analyses of weather situations.

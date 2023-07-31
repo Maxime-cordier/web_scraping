@@ -1,1 +1,0 @@
-Short Term Conflict Alert (STCA) is a ground-based safety net intended to assist the controller in preventing collision between aircraft by generating, in a timely manner, an alert of a potential or actual infringement of separation minima.

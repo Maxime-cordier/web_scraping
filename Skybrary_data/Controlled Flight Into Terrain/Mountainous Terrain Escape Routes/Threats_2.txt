@@ -1,1 +1,0 @@
-not limit the altitude capability of an aircraft. However, as part of the fire fighting/smoke removal protocol, it may be necessary to depressurise the aircraft. A minimum time routing and flight profile which will allow a timely descent to below 10,000' is desirable.

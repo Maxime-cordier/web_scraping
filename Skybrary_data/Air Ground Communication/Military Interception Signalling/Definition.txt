@@ -1,1 +1,0 @@
-Signals used for communication between an intercepting military aircraft and the intercepted aircraft.

@@ -1,1 +1,0 @@
-See the separate article: Terrain Avoidance and Warning System (TAWS).

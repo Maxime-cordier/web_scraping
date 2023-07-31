@@ -1,1 +1,0 @@
-Sound communications rely on reliable and efficient communication equipment. This article deals with technical problems involving communication equipment.

@@ -1,1 +1,0 @@
-^ Whenever a limiting speed is expressed in terms of Mach number, it is expressed as an "M speed", e.g. Mmo is maximum operating limit Mach number whereas Vmo is maximum operating limit speed in knots,..

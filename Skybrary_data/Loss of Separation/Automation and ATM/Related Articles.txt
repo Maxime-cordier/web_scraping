@@ -1,1 +1,0 @@
-Cockpit Automation - Advantages and Safety Challenges. Automatic Dependent Surveillance Broadcast (ADS-B). ATM Sector Management. Blind Spots – Inefficient conflict detection with closest aircraft. Medium Term Conflict Detection (MTCD). Safety Nets. Tactical Controller Tool (TCT). Runway Status Lights (RWSL). Integrated Tower Working Position (ITWP). 4D Trajectory Concept.

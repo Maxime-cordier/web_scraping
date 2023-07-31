@@ -1,1 +1,0 @@
-Radio Frequency Identification (RFID) is automatic identification technology that has to come into broad acceptance across multiple industries, including aviation. It brings benefits beyond bar code technology. Where bar codes need light to transmit and receive data, RFID uses radio waves to transfer data to/from RFID tag.

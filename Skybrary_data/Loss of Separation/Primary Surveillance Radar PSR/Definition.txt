@@ -1,1 +1,0 @@
-A surveillance radar system which uses reflected radio signals. Source: ICAO Doc 4444 PANS-ATM

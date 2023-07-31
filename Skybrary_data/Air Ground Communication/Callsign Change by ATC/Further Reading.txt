@@ -1,1 +1,0 @@
-ICAO Doc 4444 PANS-ATM (chapter 15, item 15.7.6). EUROCONTROL callsign similarity service.

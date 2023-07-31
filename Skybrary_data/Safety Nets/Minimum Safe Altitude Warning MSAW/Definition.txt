@@ -1,1 +1,0 @@
-A ground-based safety net intended to warn the controller about increased risk of controlled flight into terrain accidents by generating, in a timely manner, an alert of aircraft proximity to terrain or obstacles. Source: EUROCONTROL

@@ -1,1 +1,0 @@
-Failures to control the threats associated with NVIS operations can result in aircraft accident occurrences. Typical threats in NVIS operations include NVG failures, flight considerations (anticipated weather), helicopter compatibility, flight crew experience and recency.

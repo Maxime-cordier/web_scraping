@@ -1,1 +1,0 @@
-Display of Mode S selected level to the controller. This would warn the controller in good time in case the pilot mis-sets the cleared level.. Designing CLAM logic to include situations when the aircraft is approaching the cleared level at a high vertical speed. This solution may increase the number of nuisance alarms..

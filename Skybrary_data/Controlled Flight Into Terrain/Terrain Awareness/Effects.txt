@@ -1,1 +1,0 @@
-Lack of terrain awareness can result in dangerous proximity to, or collision with, the ground or an obstacle (CFIT).

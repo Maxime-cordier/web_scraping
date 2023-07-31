@@ -1,1 +1,0 @@
-Since the existing communications equipment is used, no investment is required for airlines and ANSPs. They only need to familiarize the personnel with the new protocol. This is not the case for ARFF, however, as they will need to invest both in equipment (radio and recording systems) and language training.

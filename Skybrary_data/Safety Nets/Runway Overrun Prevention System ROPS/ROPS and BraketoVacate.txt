@@ -1,1 +1,0 @@
-On the Airbus A350 and A380, the ROPS system is directly integrated with Airbus’ Brake-to-Vacate (BTV) which is an autobrake mode that optimizes the deceleration to achieve the runway exit selected by the pilot.

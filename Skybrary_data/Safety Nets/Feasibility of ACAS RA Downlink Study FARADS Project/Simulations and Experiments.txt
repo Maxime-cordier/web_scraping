@@ -1,1 +1,0 @@
-RADE-1 Experiment. RADE-2P Real-time simulation (prototype). RADE-2A Real-time simulation (area control). RADE-2T Real-time simulation (terminal control).

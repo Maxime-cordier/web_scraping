@@ -1,1 +1,0 @@
-The radio altimeter is an important tool to help minimise the risk of CFIT, because it provides an independent and unambiguous warning of proximity to the ground, regardless of any navigational uncertainty or error, e.g. mis-setting of the barometric altimeter sub-scale.

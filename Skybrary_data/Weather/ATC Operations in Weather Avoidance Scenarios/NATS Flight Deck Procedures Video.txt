@@ -1,1 +1,0 @@
-There will be times when controllers will have to cope with unusual situations such as weather avoidance or aircraft emergencies. It is important for controllers to have knowledge of the flight deck procedures that will be used by aircrew in such situations. The following video describes the generic procedures followed by aircrew in certain unusual situations:

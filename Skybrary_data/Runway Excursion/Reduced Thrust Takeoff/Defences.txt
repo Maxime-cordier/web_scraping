@@ -1,1 +1,0 @@
-When derate or assumed temperature calculations are made by the pilots utilizing either manual or electronic means, each of the pilots should make the calculations independently and then compare the results. Differences must be reconciled. Likewise, all FMS entries should be crosschecked by both pilots for accuracy.

@@ -1,1 +1,0 @@
-The classification scheme specifies six severity categories for ATM related occurrences impacting the safe operations of the aircraft: accident, serious incidents, major incidents, significant incidents, no effect and risk not determined. The definitions for each are provided in the table below.

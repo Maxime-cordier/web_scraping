@@ -1,1 +1,0 @@
-Transponder. Mode S. Transponder Mandatory Zone (TMZ). Operation without a Transponder or with a Dysfunctional Transponder. Automatic Dependent Surveillance Broadcast (ADS-B).

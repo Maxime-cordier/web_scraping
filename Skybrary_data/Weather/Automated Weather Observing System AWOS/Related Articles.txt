@@ -1,1 +1,0 @@
-Meteorological Terminal Air Report (METAR). Significant Weather Information (SIGMET). Wind Velocity Reporting. Runway Surface Friction. Lightning Detection Network.

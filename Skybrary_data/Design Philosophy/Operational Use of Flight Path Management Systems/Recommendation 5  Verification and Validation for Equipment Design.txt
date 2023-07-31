@@ -1,1 +1,0 @@
-Research should be conducted and implemented on processes and methods of verification and validation (includes validation of requirements) during the design of highly integrated systems that specifically address failures and failure effects resulting from the integration.

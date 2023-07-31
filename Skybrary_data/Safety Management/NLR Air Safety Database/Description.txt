@@ -1,1 +1,0 @@
-The NLR Air Safety Database is maintained at NLR. It contains detailed information on accidents and incidents of fixed wing aircraft and helicopters from 1960 and onwards.

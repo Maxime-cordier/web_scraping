@@ -1,1 +1,0 @@
-other ATS units providing procedural control. Also, aerodrome controllers may provide reduced separation provided that each aircraft is continuously visible to them. For example, an aerodrome controller may clear an aircraft to cross above a runway at a right angle after a departing traffic has passed the intersecting point of the two flight paths.

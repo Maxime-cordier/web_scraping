@@ -1,1 +1,0 @@
-EUROCONTROL Mode S - Flight Plans and Transponders. EUROCONTROL Mode S dossier. Others Guidance Material for Mode S-Specific Protocol Application Avionics by R.D. Grappel and R.T. Wiken, MIT Lincoln Laboratory for the USAF, 2007. HindSight 10: Mode S - Helping to Reduce Risk by Andy Edmunds, 2009. The Mode S Team, FAA website. Mode S Transponders, NBAA website.
